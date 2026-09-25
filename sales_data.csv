@@ -1,0 +1,601 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Region,Customer_Segment,Sales_Channel,Payment_Method,Quantity,Unit_Price,Discount_Percent,Sales,Cost,Profit
+ORD0468,01-01-2023,CUST1203,Printer,Office Supplies,West,Corporate,Retail Store,Cash,4,9775.69,8,35974.54,20124.35,15850.19
+ORD0134,03-01-2023,CUST1033,Bookshelf,Furniture,Central,Consumer,Online,Credit Card,4,6610.61,12,23269.35,16158.06,7111.29
+ORD0275,04-01-2023,CUST1198,Desk,Furniture,North,Consumer,Online,Net Banking,2,12855.2,0,25710.4,16827.97,8882.43
+ORD0061,05-01-2023,CUST1148,Laptop,Electronics,South,Corporate,Online,Net Banking,3,52215.09,0,156645.27,121446.94,35198.33
+ORD0406,06-01-2023,CUST1192,Headphones,Electronics,North,Corporate,Online,Credit Card,8,2478.95,10,17848.44,13363.91,4484.53
+ORD0161,08-01-2023,CUST1094,Bookshelf,Furniture,West,Small Business,Retail Store,Debit Card,4,6495.39,0,25981.56,17954.55,8027.01
+ORD0411,13-01-2023,CUST1063,Backpack,Accessories,West,Corporate,Retail Store,Credit Card,7,1719.92,2,11798.65,6863.27,4935.38
+ORD0430,15-01-2023,CUST1190,Pen Set,Office Supplies,South,Consumer,Online,Debit Card,7,257.82,0,1804.74,986.29,818.45
+ORD0590,16-01-2023,CUST1154,Headphones,Electronics,North,Corporate,Online,Cash,2,2391.37,8,4400.12,3214.83,1185.29
+ORD0210,18-01-2023,CUST1139,Bookshelf,Furniture,East,Consumer,Online,Debit Card,5,7377.01,12,32458.84,20689.98,11768.86
+ORD0092,20-01-2023,CUST1240,Headphones,Electronics,East,Corporate,Online,Debit Card,4,2600.79,15,8842.69,6408.36,2434.33
+ORD0588,22-01-2023,CUST1094,Printer,Office Supplies,South,Consumer,Retail Store,Debit Card,8,10070.04,8,74115.49,40672.08,33443.41
+ORD0384,23-01-2023,CUST1101,Desk,Furniture,South,Consumer,Online,UPI,3,12055.76,2,35443.93,22177.54,13266.39
+ORD0442,28-01-2023,CUST1137,Desk,Furniture,East,Consumer,Distributor,Net Banking,8,12223.95,8,89968.27,59141.37,30826.9
+ORD0303,03-02-2023,CUST1112,Smartphone,Electronics,West,Corporate,Retail Store,Cash,7,22453.9,15,133600.71,97923.04,35677.67
+ORD0270,05-02-2023,CUST1004,Notebook Pack,Office Supplies,West,Consumer,Retail Store,Cash,1,431.88,5,410.29,236.31,173.98
+ORD0192,08-02-2023,CUST1129,Headphones,Electronics,North,Consumer,Distributor,Net Banking,2,2674.47,5,5081.49,3938.02,1143.47
+ORD0461,10-02-2023,CUST1050,Notebook Pack,Office Supplies,Central,Consumer,Online,Debit Card,2,470.32,15,799.54,496.2,303.34
+ORD0448,12-02-2023,CUST1121,Laptop,Electronics,South,Consumer,Online,Debit Card,5,56565.9,15,240405.08,177715.62,62689.46
+ORD0475,13-02-2023,CUST1019,Pen Set,Office Supplies,Central,Small Business,Retail Store,Debit Card,4,258.44,8,951.06,551.96,399.1
+ORD0193,14-02-2023,CUST1066,Tablet,Electronics,East,Consumer,Online,UPI,2,18197.48,2,35667.06,27374.97,8292.09
+ORD0460,14-02-2023,CUST1190,Backpack,Accessories,South,Small Business,Online,UPI,6,1750.49,10,9452.65,6162.25,3290.4
+ORD0055,18-02-2023,CUST1156,Backpack,Accessories,West,Small Business,Online,Credit Card,6,1847.72,15,9423.37,5982.83,3440.54
+ORD0159,18-02-2023,CUST1046,Pen Set,Office Supplies,North,Small Business,Online,Credit Card,8,247.95,10,1785.24,1017.7,767.54
+ORD0259,20-02-2023,CUST1041,Smartphone,Electronics,Central,Corporate,Online,Debit Card,2,21027.04,0,42054.08,30060.42,11993.66
+ORD0494,21-02-2023,CUST1144,Desk,Furniture,North,Consumer,Distributor,UPI,2,12353.87,5,23472.35,14839.65,8632.7
+ORD0555,28-02-2023,CUST1132,Laptop,Electronics,East,Consumer,Online,Net Banking,2,55209.28,2,108210.19,75171.73,33038.46
+ORD0069,03-03-2023,CUST1017,Laptop,Electronics,Central,Consumer,Online,Net Banking,5,52122.35,5,247581.16,172950.42,74630.74
+ORD0253,03-03-2023,CUST1223,Tablet,Electronics,North,Corporate,Online,Cash,8,17069.76,5,129730.18,95735.24,33994.94
+ORD0121,04-03-2023,CUST1221,Desk,Furniture,East,Consumer,Online,Credit Card,1,12292.84,15,10448.91,7100.15,3348.76
+ORD0422,04-03-2023,CUST1036,Pen Set,Office Supplies,Central,Consumer,Distributor,UPI,8,258.6,15,1758.48,1036.37,722.11
+ORD0325,06-03-2023,CUST1048,Pen Set,Office Supplies,Central,Corporate,Online,Cash,8,268.28,10,1931.62,1136.03,795.59
+ORD0415,07-03-2023,CUST1094,Notebook Pack,Office Supplies,East,Corporate,Online,Credit Card,1,435.73,15,370.37,206.4,163.97
+ORD0091,08-03-2023,CUST1139,Office Chair,Furniture,East,Consumer,Online,Net Banking,1,7911.35,5,7515.78,4867.03,2648.75
+ORD0095,08-03-2023,CUST1064,Bookshelf,Furniture,South,Small Business,Online,Cash,7,7554.07,8,48648.21,34004.91,14643.3
+ORD0539,09-03-2023,CUST1174,Office Chair,Furniture,West,Small Business,Online,Credit Card,1,8421.65,12,7411.05,5243.92,2167.13
+ORD0562,09-03-2023,CUST1113,Bookshelf,Furniture,East,Consumer,Retail Store,Credit Card,3,6567.1,0,19701.3,13541.68,6159.62
+ORD0423,12-03-2023,CUST1044,Notebook Pack,Office Supplies,South,Consumer,Online,UPI,7,485.03,10,3055.69,1821.07,1234.62
+ORD0098,13-03-2023,CUST1028,Keyboard,Accessories,East,Corporate,Online,UPI,1,1472.28,12,1295.61,746.8,548.81
+ORD0298,15-03-2023,CUST1024,Printer,Office Supplies,North,Corporate,Online,Debit Card,6,10183.77,8,56214.41,33900.78,22313.63
+ORD0445,15-03-2023,CUST1141,Keyboard,Accessories,East,Consumer,Online,Credit Card,4,1464.32,5,5564.42,3463.56,2100.86
+ORD0287,16-03-2023,CUST1168,Keyboard,Accessories,East,Small Business,Retail Store,UPI,1,1537.5,0,1537.5,882.2,655.3
+ORD0436,20-03-2023,CUST1191,Laptop,Electronics,East,Consumer,Online,Debit Card,2,58973.57,15,100255.07,68027.95,32227.12
+ORD0283,22-03-2023,CUST1089,Keyboard,Accessories,West,Consumer,Online,Credit Card,7,1445.74,2,9917.78,5689.38,4228.4
+ORD0262,27-03-2023,CUST1143,Laptop,Electronics,Central,Corporate,Retail Store,Debit Card,4,51951.5,10,187025.4,139824.21,47201.19
+ORD0074,29-03-2023,CUST1046,Backpack,Accessories,West,Consumer,Online,Net Banking,2,1917.25,5,3642.78,2093.98,1548.8
+ORD0495,30-03-2023,CUST1240,Smartphone,Electronics,West,Corporate,Online,Credit Card,8,23293.94,12,163989.34,122953.38,41035.96
+ORD0563,05-04-2023,CUST1187,Tablet,Electronics,North,Consumer,Distributor,Cash,3,17083.38,10,46125.13,30628.18,15496.95
+ORD0014,07-04-2023,CUST1067,Office Chair,Furniture,North,Small Business,Distributor,Debit Card,6,9138.08,8,50442.2,35830.51,14611.69
+ORD0001,08-04-2023,CUST1180,Pen Set,Office Supplies,West,Small Business,Retail Store,Debit Card,2,269.02,0,538.04,325.1,212.94
+ORD0103,09-04-2023,CUST1058,Laptop,Electronics,Central,Consumer,Online,UPI,6,52726.42,10,284722.67,207270.48,77452.19
+ORD0056,10-04-2023,CUST1195,Notebook Pack,Office Supplies,Central,Consumer,Online,Debit Card,2,428.27,12,753.76,465.9,287.86
+ORD0463,11-04-2023,CUST1199,Pen Set,Office Supplies,North,Consumer,Online,Cash,7,247.57,15,1473.04,847.14,625.9
+ORD0597,13-04-2023,CUST1225,Backpack,Accessories,Central,Corporate,Online,Credit Card,8,1844.52,8,13575.67,8465.83,5109.84
+ORD0026,14-04-2023,CUST1031,Notebook Pack,Office Supplies,West,Consumer,Distributor,Net Banking,2,473.84,0,947.68,519.16,428.52
+ORD0152,15-04-2023,CUST1107,Notebook Pack,Office Supplies,West,Small Business,Online,Credit Card,4,417.7,2,1637.38,975.86,661.52
+ORD0396,21-04-2023,CUST1071,Notebook Pack,Office Supplies,East,Consumer,Retail Store,Credit Card,3,455.32,12,1202.04,661.86,540.18
+ORD0332,26-04-2023,CUST1201,Tablet,Electronics,South,Small Business,Online,Net Banking,7,16879.16,12,103975.63,76163.98,27811.65
+ORD0454,01-05-2023,CUST1131,Laptop,Electronics,West,Corporate,Online,Debit Card,7,58583.34,8,377276.71,288067.58,89209.13
+ORD0122,02-05-2023,CUST1226,Tablet,Electronics,South,Consumer,Retail Store,Credit Card,8,19395.56,12,136544.74,105899.82,30644.92
+ORD0402,02-05-2023,CUST1191,Headphones,Electronics,North,Small Business,Online,Credit Card,8,2579.28,8,18983.5,13183.95,5799.55
+ORD0195,03-05-2023,CUST1106,Smartphone,Electronics,East,Consumer,Distributor,Credit Card,7,22953.12,5,152638.25,110611.28,42026.97
+ORD0082,06-05-2023,CUST1243,Bookshelf,Furniture,West,Consumer,Retail Store,Net Banking,6,7542.73,5,42993.56,28245.02,14748.54
+ORD0089,06-05-2023,CUST1134,Headphones,Electronics,East,Consumer,Online,Net Banking,6,2587.06,5,14746.24,11139.55,3606.69
+ORD0168,07-05-2023,CUST1205,Desk,Furniture,West,Consumer,Distributor,Net Banking,7,12050.04,0,84350.28,61916.35,22433.93
+ORD0064,11-05-2023,CUST1153,Keyboard,Accessories,North,Consumer,Online,Cash,4,1532.31,12,5393.73,3296.93,2096.8
+ORD0336,11-05-2023,CUST1057,Headphones,Electronics,North,Consumer,Distributor,Credit Card,2,2519.45,0,5038.9,3462.65,1576.25
+ORD0507,11-05-2023,CUST1020,Printer,Office Supplies,East,Small Business,Online,Cash,1,8763.68,2,8588.41,4747.46,3840.95
+ORD0126,13-05-2023,CUST1045,Tablet,Electronics,Central,Consumer,Online,UPI,7,17751.08,10,111831.8,79872.93,31958.87
+ORD0295,13-05-2023,CUST1079,Printer,Office Supplies,South,Consumer,Online,Cash,6,10259.64,0,61557.84,35448.49,26109.35
+ORD0030,16-05-2023,CUST1166,Bookshelf,Furniture,Central,Consumer,Online,UPI,4,7510.3,8,27637.9,18151.62,9486.28
+ORD0385,17-05-2023,CUST1124,Smartphone,Electronics,North,Corporate,Online,UPI,4,21020.82,8,77356.62,51456.94,25899.68
+ORD0490,21-05-2023,CUST1075,Keyboard,Accessories,South,Corporate,Online,Net Banking,5,1463,12,6437.2,4176.68,2260.52
+ORD0506,21-05-2023,CUST1006,Keyboard,Accessories,South,Corporate,Online,Cash,3,1416.85,0,4250.55,2661.62,1588.93
+ORD0418,22-05-2023,CUST1025,Printer,Office Supplies,West,Small Business,Online,Credit Card,8,8805.3,8,64807.01,38919.4,25887.61
+ORD0163,25-05-2023,CUST1150,Bookshelf,Furniture,North,Corporate,Retail Store,Credit Card,7,6441.2,0,45088.4,29248.65,15839.75
+ORD0269,26-05-2023,CUST1107,Laptop,Electronics,East,Consumer,Online,Credit Card,6,55192.51,5,314597.31,218523.73,96073.58
+ORD0185,27-05-2023,CUST1137,Desk,Furniture,South,Corporate,Distributor,UPI,4,11117.57,15,37799.74,26550.19,11249.55
+ORD0441,29-05-2023,CUST1052,Keyboard,Accessories,East,Consumer,Distributor,Credit Card,1,1391.37,12,1224.41,705.92,518.49
+ORD0540,29-05-2023,CUST1067,Notebook Pack,Office Supplies,Central,Consumer,Online,Cash,2,440.4,5,836.76,502.21,334.55
+ORD0543,29-05-2023,CUST1151,Pen Set,Office Supplies,West,Corporate,Distributor,Credit Card,8,245.71,2,1926.37,1143.59,782.78
+ORD0049,02-06-2023,CUST1053,Keyboard,Accessories,Central,Consumer,Online,UPI,4,1480.47,10,5329.69,3449.44,1880.25
+ORD0017,03-06-2023,CUST1166,Printer,Office Supplies,North,Consumer,Online,Cash,7,9490.87,0,66436.09,37483.98,28952.11
+ORD0517,03-06-2023,CUST1039,Office Chair,Furniture,Central,Consumer,Online,Credit Card,5,8380.74,15,35618.14,22290.19,13327.95
+ORD0018,08-06-2023,CUST1146,Notebook Pack,Office Supplies,North,Corporate,Online,Credit Card,8,438.97,15,2985,1756.48,1228.52
+ORD0351,13-06-2023,CUST1209,Desk,Furniture,West,Consumer,Online,Debit Card,6,11198.26,2,65845.77,44750.51,21095.26
+ORD0388,13-06-2023,CUST1015,Desk,Furniture,Central,Consumer,Retail Store,Credit Card,8,12811.9,10,92245.68,63407.64,28838.04
+ORD0459,15-06-2023,CUST1012,Bookshelf,Furniture,Central,Consumer,Online,Credit Card,5,6735.72,10,30310.74,19581.92,10728.82
+ORD0065,18-06-2023,CUST1037,Office Chair,Furniture,Central,Corporate,Online,Credit Card,8,8389.02,0,67112.16,45447.39,21664.77
+ORD0586,19-06-2023,CUST1130,Pen Set,Office Supplies,West,Corporate,Online,UPI,7,256.14,2,1757.12,996.19,760.93
+ORD0393,20-06-2023,CUST1135,Keyboard,Accessories,Central,Small Business,Online,Credit Card,6,1480.39,2,8704.69,5245.28,3459.41
+ORD0530,23-06-2023,CUST1131,Tablet,Electronics,East,Consumer,Distributor,Debit Card,2,17127.3,15,29116.41,19542.84,9573.57
+ORD0130,29-06-2023,CUST1030,Office Chair,Furniture,East,Consumer,Online,Net Banking,1,9066.91,5,8613.56,5689.97,2923.59
+ORD0219,30-06-2023,CUST1104,Office Chair,Furniture,West,Small Business,Online,Debit Card,8,8846.22,12,62277.39,39623.33,22654.06
+ORD0346,01-07-2023,CUST1164,Tablet,Electronics,East,Consumer,Retail Store,Cash,8,16918.3,12,119104.83,82948.06,36156.77
+ORD0497,01-07-2023,CUST1153,Printer,Office Supplies,East,Small Business,Online,Debit Card,6,9955.02,12,52562.51,32739.24,19823.27
+ORD0174,02-07-2023,CUST1189,Bookshelf,Furniture,West,Consumer,Online,Cash,5,6728.31,12,29604.56,21183.68,8420.88
+ORD0545,03-07-2023,CUST1006,Office Chair,Furniture,South,Corporate,Online,Credit Card,4,9075.58,8,33398.13,22853.45,10544.68
+ORD0391,05-07-2023,CUST1229,Printer,Office Supplies,South,Corporate,Online,Cash,3,9643.33,10,26036.99,14395.04,11641.95
+ORD0470,08-07-2023,CUST1028,Laptop,Electronics,East,Small Business,Retail Store,Cash,7,53952.28,12,332346.04,239517.5,92828.54
+ORD0214,12-07-2023,CUST1170,Tablet,Electronics,Central,Consumer,Distributor,Cash,2,18905.68,5,35920.79,24767.44,11153.35
+ORD0045,13-07-2023,CUST1156,Notebook Pack,Office Supplies,North,Corporate,Distributor,Credit Card,8,458.24,0,3665.92,1988.49,1677.43
+ORD0523,15-07-2023,CUST1044,Headphones,Electronics,East,Corporate,Retail Store,Debit Card,7,2387.13,8,15373.12,11718.32,3654.8
+ORD0477,17-07-2023,CUST1106,Pen Set,Office Supplies,Central,Consumer,Online,UPI,3,245.48,5,699.62,426.56,273.06
+ORD0410,19-07-2023,CUST1204,Smartphone,Electronics,West,Consumer,Online,Debit Card,8,22786.93,0,182295.44,139003.81,43291.63
+ORD0196,20-07-2023,CUST1058,Printer,Office Supplies,South,Corporate,Retail Store,UPI,4,9837.3,12,34627.3,19019.79,15607.51
+ORD0127,23-07-2023,CUST1084,Tablet,Electronics,Central,Small Business,Distributor,Cash,6,18088.85,5,103106.44,71248.24,31858.2
+ORD0278,24-07-2023,CUST1171,Notebook Pack,Office Supplies,South,Consumer,Online,Debit Card,2,427.06,12,751.63,448.14,303.49
+ORD0568,24-07-2023,CUST1117,Desk,Furniture,East,Small Business,Online,Net Banking,1,12875.88,8,11845.81,7770.33,4075.48
+ORD0218,26-07-2023,CUST1161,Tablet,Electronics,North,Consumer,Online,Cash,7,18548.36,8,119451.44,92651.33,26800.11
+ORD0111,27-07-2023,CUST1132,Laptop,Electronics,North,Consumer,Distributor,Debit Card,7,55974.78,2,383986.99,278839.03,105147.96
+ORD0139,27-07-2023,CUST1033,Printer,Office Supplies,East,Consumer,Online,Credit Card,3,8879.42,0,26638.26,15864.23,10774.03
+ORD0191,02-08-2023,CUST1022,Office Chair,Furniture,North,Consumer,Retail Store,UPI,6,9085.73,8,50153.23,34716.55,15436.68
+ORD0395,04-08-2023,CUST1228,Office Chair,Furniture,West,Consumer,Online,UPI,6,8904.28,15,45411.83,33201.2,12210.63
+ORD0573,05-08-2023,CUST1044,Smartphone,Electronics,South,Consumer,Retail Store,UPI,5,21658.43,12,95297.09,68008.3,27288.79
+ORD0547,08-08-2023,CUST1110,Headphones,Electronics,South,Corporate,Retail Store,Debit Card,5,2418.02,15,10276.59,7587.09,2689.5
+ORD0142,10-08-2023,CUST1064,Keyboard,Accessories,East,Corporate,Distributor,Debit Card,5,1530.11,12,6732.48,4054.25,2678.23
+ORD0485,11-08-2023,CUST1019,Smartphone,Electronics,West,Corporate,Online,Net Banking,4,20457.58,10,73647.29,55759.03,17888.26
+ORD0575,11-08-2023,CUST1059,Smartphone,Electronics,South,Consumer,Distributor,Debit Card,1,22071.65,10,19864.49,14984.46,4880.03
+ORD0250,12-08-2023,CUST1247,Office Chair,Furniture,East,Small Business,Online,Net Banking,4,9159.66,2,35905.87,26002.47,9903.4
+ORD0217,17-08-2023,CUST1060,Tablet,Electronics,Central,Small Business,Online,Debit Card,2,18711.58,5,35552,25071.33,10480.67
+ORD0407,19-08-2023,CUST1207,Keyboard,Accessories,North,Corporate,Distributor,Debit Card,7,1592.77,2,10926.4,6338.15,4588.25
+ORD0236,21-08-2023,CUST1019,Smartphone,Electronics,North,Consumer,Online,UPI,8,20706.55,0,165652.4,125514.78,40137.62
+ORD0334,21-08-2023,CUST1238,Notebook Pack,Office Supplies,Central,Consumer,Online,Cash,6,473.7,12,2501.14,1398.95,1102.19
+ORD0527,22-08-2023,CUST1158,Backpack,Accessories,South,Consumer,Distributor,Credit Card,7,1778.52,5,11827.16,7871.39,3955.77
+ORD0240,26-08-2023,CUST1073,Desk,Furniture,West,Small Business,Online,Net Banking,5,12104.23,2,59310.73,41117.67,18193.06
+ORD0486,26-08-2023,CUST1204,Headphones,Electronics,Central,Corporate,Online,Cash,1,2370.58,0,2370.58,1584.42,786.16
+ORD0378,30-08-2023,CUST1116,Pen Set,Office Supplies,Central,Corporate,Online,Net Banking,4,263.06,8,968.06,577.99,390.07
+ORD0489,30-08-2023,CUST1084,Tablet,Electronics,Central,Small Business,Retail Store,Net Banking,4,17769.05,2,69654.68,47834.14,21820.54
+ORD0213,03-09-2023,CUST1185,Tablet,Electronics,West,Small Business,Online,UPI,1,18522.23,12,16299.56,11157.2,5142.36
+ORD0066,05-09-2023,CUST1164,Smartphone,Electronics,East,Corporate,Retail Store,Debit Card,6,21353.07,10,115306.58,86838.79,28467.79
+ORD0285,05-09-2023,CUST1009,Tablet,Electronics,South,Small Business,Distributor,Cash,1,18091.65,8,16644.32,11628.38,5015.94
+ORD0519,06-09-2023,CUST1121,Laptop,Electronics,East,Small Business,Distributor,Net Banking,4,51853.63,2,203266.23,150175.92,53090.31
+ORD0255,08-09-2023,CUST1149,Desk,Furniture,West,Consumer,Distributor,Debit Card,6,11061.15,15,56411.86,36387.46,20024.4
+ORD0362,10-09-2023,CUST1063,Office Chair,Furniture,North,Corporate,Distributor,UPI,2,8009.72,5,15218.47,10945.57,4272.9
+ORD0409,10-09-2023,CUST1163,Printer,Office Supplies,Central,Consumer,Distributor,Debit Card,3,9417.97,5,26841.21,15342.98,11498.23
+ORD0087,14-09-2023,CUST1153,Backpack,Accessories,East,Corporate,Retail Store,UPI,5,1771.59,0,8857.95,5839.58,3018.37
+ORD0595,16-09-2023,CUST1090,Office Chair,Furniture,West,Corporate,Online,UPI,6,8392.44,12,44312.08,29721.23,14590.85
+ORD0598,18-09-2023,CUST1198,Printer,Office Supplies,Central,Small Business,Online,Net Banking,6,9107.06,15,46446.01,28509.54,17936.47
+ORD0177,20-09-2023,CUST1213,Desk,Furniture,South,Consumer,Retail Store,Debit Card,8,12727.23,5,96726.95,64438.43,32288.52
+ORD0120,24-09-2023,CUST1051,Tablet,Electronics,North,Small Business,Distributor,Credit Card,3,17095.01,8,47182.23,34090.85,13091.38
+ORD0128,26-09-2023,CUST1130,Headphones,Electronics,North,Small Business,Distributor,UPI,7,2496.24,5,16600,12008.88,4591.12
+ORD0482,28-09-2023,CUST1154,Printer,Office Supplies,North,Consumer,Retail Store,Credit Card,3,10093.19,8,27857.2,16422.3,11434.9
+ORD0205,30-09-2023,CUST1146,Headphones,Electronics,South,Corporate,Retail Store,UPI,2,2492.45,0,4984.9,3751.19,1233.71
+ORD0498,30-09-2023,CUST1144,Bookshelf,Furniture,West,Small Business,Distributor,Credit Card,8,7088.65,8,52172.46,33588.7,18583.76
+ORD0227,05-10-2023,CUST1099,Bookshelf,Furniture,West,Small Business,Distributor,UPI,1,7468,12,6571.84,4815.05,1756.79
+ORD0591,06-10-2023,CUST1201,Office Chair,Furniture,East,Consumer,Online,UPI,3,8239.05,0,24717.15,17888.61,6828.54
+ORD0397,07-10-2023,CUST1171,Desk,Furniture,North,Consumer,Distributor,Cash,8,12613.49,8,92835.29,64682.52,28152.77
+ORD0024,08-10-2023,CUST1249,Keyboard,Accessories,Central,Consumer,Online,Credit Card,4,1594,15,5419.6,3493.81,1925.79
+ORD0478,09-10-2023,CUST1101,Notebook Pack,Office Supplies,West,Consumer,Retail Store,Cash,7,466.02,10,2935.93,1815.95,1119.98
+ORD0576,11-10-2023,CUST1197,Pen Set,Office Supplies,Central,Consumer,Retail Store,Debit Card,8,264.15,12,1859.62,1060.8,798.82
+ORD0015,14-10-2023,CUST1181,Notebook Pack,Office Supplies,West,Consumer,Online,Debit Card,4,446.82,15,1519.19,839.17,680.02
+ORD0342,15-10-2023,CUST1187,Headphones,Electronics,East,Consumer,Retail Store,Cash,6,2506.63,0,15039.78,11008.73,4031.05
+ORD0515,16-10-2023,CUST1222,Tablet,Electronics,South,Consumer,Retail Store,Net Banking,4,17913.5,0,71654,47696.55,23957.45
+ORD0109,18-10-2023,CUST1104,Laptop,Electronics,Central,Small Business,Retail Store,UPI,4,58496.26,0,233985.04,178722.41,55262.63
+ORD0317,18-10-2023,CUST1053,Desk,Furniture,East,Consumer,Online,Credit Card,7,11327.89,5,75330.47,54274.47,21056
+ORD0085,19-10-2023,CUST1191,Keyboard,Accessories,East,Consumer,Online,Net Banking,8,1406.23,0,11249.84,7170.54,4079.3
+ORD0254,29-10-2023,CUST1213,Notebook Pack,Office Supplies,North,Consumer,Retail Store,Net Banking,1,425.19,0,425.19,250.82,174.37
+ORD0435,30-10-2023,CUST1075,Pen Set,Office Supplies,North,Consumer,Retail Store,UPI,2,233.17,0,466.34,278.96,187.38
+ORD0375,01-11-2023,CUST1052,Tablet,Electronics,West,Corporate,Online,Credit Card,8,16689.5,2,130845.68,99834.89,31010.79
+ORD0502,01-11-2023,CUST1023,Laptop,Electronics,Central,Consumer,Distributor,Debit Card,3,52788.48,5,150447.17,100668.62,49778.55
+ORD0284,03-11-2023,CUST1082,Headphones,Electronics,North,Consumer,Online,Net Banking,3,2335.89,5,6657.29,4429.12,2228.17
+ORD0510,03-11-2023,CUST1135,Smartphone,Electronics,West,Small Business,Retail Store,Debit Card,6,20349.42,0,122096.52,91045.18,31051.34
+ORD0155,04-11-2023,CUST1187,Laptop,Electronics,East,Consumer,Online,UPI,7,50906.58,12,313584.53,231281.16,82303.37
+ORD0457,07-11-2023,CUST1219,Backpack,Accessories,East,Corporate,Online,Credit Card,3,1808.25,2,5316.26,3077.94,2238.32
+ORD0465,07-11-2023,CUST1077,Desk,Furniture,South,Small Business,Retail Store,Cash,5,12479.48,10,56157.66,39264.97,16892.69
+ORD0315,09-11-2023,CUST1073,Pen Set,Office Supplies,Central,Corporate,Distributor,Debit Card,4,263.23,2,1031.86,555.56,476.3
+ORD0033,12-11-2023,CUST1073,Pen Set,Office Supplies,South,Consumer,Retail Store,Cash,7,264.71,10,1667.67,983.21,684.46
+ORD0057,13-11-2023,CUST1072,Printer,Office Supplies,Central,Consumer,Online,UPI,7,9958.25,10,62736.97,34865.3,27871.67
+ORD0137,14-11-2023,CUST1179,Backpack,Accessories,West,Small Business,Retail Store,Cash,7,1743.11,10,10981.59,7296.12,3685.47
+ORD0105,16-11-2023,CUST1038,Headphones,Electronics,South,Consumer,Retail Store,Net Banking,8,2444.61,15,16623.35,12568.52,4054.83
+ORD0019,20-11-2023,CUST1111,Laptop,Electronics,North,Consumer,Retail Store,Net Banking,1,54882.59,0,54882.59,39456.71,15425.88
+ORD0054,20-11-2023,CUST1196,Keyboard,Accessories,East,Consumer,Online,Debit Card,8,1406.54,12,9902.04,6627.49,3274.55
+ORD0319,20-11-2023,CUST1212,Pen Set,Office Supplies,North,Consumer,Retail Store,Net Banking,1,253.69,0,253.69,153.17,100.52
+ORD0322,22-11-2023,CUST1105,Backpack,Accessories,South,Small Business,Retail Store,Net Banking,8,1810.78,8,13327.34,8245.92,5081.42
+ORD0186,27-11-2023,CUST1030,Bookshelf,Furniture,Central,Consumer,Distributor,Cash,7,6507,15,38716.65,27737.24,10979.41
+ORD0357,27-11-2023,CUST1196,Printer,Office Supplies,East,Consumer,Online,Debit Card,3,9501.49,10,25654.02,14813.02,10841
+ORD0349,28-11-2023,CUST1095,Backpack,Accessories,Central,Consumer,Retail Store,Net Banking,1,1798.35,2,1762.38,1039.79,722.59
+ORD0208,29-11-2023,CUST1125,Backpack,Accessories,South,Consumer,Retail Store,UPI,8,1841.18,5,13992.97,9185.31,4807.66
+ORD0010,30-11-2023,CUST1214,Printer,Office Supplies,North,Consumer,Online,Credit Card,4,9095.59,15,30925.01,16668.9,14256.11
+ORD0016,02-12-2023,CUST1180,Pen Set,Office Supplies,East,Consumer,Distributor,UPI,7,247.28,8,1592.48,942.45,650.03
+ORD0080,04-12-2023,CUST1159,Smartphone,Electronics,East,Consumer,Online,UPI,6,23695.96,8,130801.7,95990.82,34810.88
+ORD0488,05-12-2023,CUST1105,Bookshelf,Furniture,South,Consumer,Online,Debit Card,2,7425,15,12622.5,7975.31,4647.19
+ORD0400,06-12-2023,CUST1053,Backpack,Accessories,East,Corporate,Online,Net Banking,6,1938.02,0,11628.12,6745.82,4882.3
+ORD0036,07-12-2023,CUST1039,Keyboard,Accessories,North,Small Business,Online,UPI,3,1407.72,10,3800.84,2175.97,1624.87
+ORD0508,09-12-2023,CUST1158,Bookshelf,Furniture,North,Consumer,Online,Debit Card,6,7487.97,12,39536.48,28167.4,11369.08
+ORD0549,11-12-2023,CUST1089,Headphones,Electronics,West,Small Business,Retail Store,Net Banking,3,2407.15,12,6354.88,4641.04,1713.84
+ORD0582,11-12-2023,CUST1165,Notebook Pack,Office Supplies,East,Corporate,Online,Cash,5,484.47,15,2059,1240.98,818.02
+ORD0106,15-12-2023,CUST1080,Bookshelf,Furniture,West,Corporate,Online,Debit Card,4,6527.48,10,23498.93,14777.21,8721.72
+ORD0118,16-12-2023,CUST1234,Office Chair,Furniture,West,Corporate,Online,UPI,5,8455.99,10,38051.95,24619.82,13432.13
+ORD0271,21-12-2023,CUST1190,Office Chair,Furniture,West,Consumer,Retail Store,Net Banking,2,7849.69,10,14129.44,9631.28,4498.16
+ORD0343,21-12-2023,CUST1161,Office Chair,Furniture,East,Consumer,Retail Store,UPI,1,7841.49,15,6665.27,4574.14,2091.13
+ORD0313,23-12-2023,CUST1177,Tablet,Electronics,West,Corporate,Online,UPI,1,16751.23,12,14741.08,11229.25,3511.83
+ORD0297,24-12-2023,CUST1154,Office Chair,Furniture,West,Consumer,Online,Debit Card,5,8164.5,15,34699.12,24370.36,10328.76
+ORD0596,25-12-2023,CUST1165,Tablet,Electronics,Central,Consumer,Online,Debit Card,2,19416.66,5,36891.65,25437.78,11453.87
+ORD0044,26-12-2023,CUST1134,Desk,Furniture,East,Small Business,Retail Store,Credit Card,7,12255.2,8,78923.49,51848.89,27074.6
+ORD0331,29-12-2023,CUST1237,Laptop,Electronics,West,Consumer,Online,UPI,8,55045.35,15,374308.38,258068.26,116240.12
+ORD0564,02-01-2024,CUST1045,Desk,Furniture,North,Consumer,Distributor,Cash,5,12108.79,15,51462.36,33627,17835.36
+ORD0421,05-01-2024,CUST1214,Laptop,Electronics,North,Consumer,Online,Debit Card,4,53519.39,2,209796.01,140666.31,69129.7
+ORD0119,06-01-2024,CUST1182,Office Chair,Furniture,South,Consumer,Online,Credit Card,3,8281.69,10,22360.56,16311.87,6048.69
+ORD0529,07-01-2024,CUST1166,Headphones,Electronics,East,Corporate,Online,UPI,8,2336.14,5,17754.66,12779.2,4975.46
+ORD0165,08-01-2024,CUST1027,Tablet,Electronics,East,Consumer,Retail Store,Debit Card,1,16845.57,2,16508.66,11328.98,5179.68
+ORD0340,08-01-2024,CUST1044,Pen Set,Office Supplies,South,Corporate,Online,UPI,8,242.79,8,1786.93,1002.25,784.68
+ORD0473,10-01-2024,CUST1244,Backpack,Accessories,West,Small Business,Online,Debit Card,2,1791.63,5,3404.1,2103.82,1300.28
+ORD0067,11-01-2024,CUST1033,Bookshelf,Furniture,North,Corporate,Online,Debit Card,8,7265.11,8,53471.21,38608.39,14862.82
+ORD0115,11-01-2024,CUST1134,Desk,Furniture,Central,Small Business,Online,Cash,4,12464.1,8,45867.89,32343.63,13524.26
+ORD0167,11-01-2024,CUST1013,Headphones,Electronics,Central,Consumer,Distributor,Cash,1,2339.93,15,1988.94,1342.08,646.86
+ORD0207,12-01-2024,CUST1176,Office Chair,Furniture,West,Small Business,Online,Credit Card,2,7998.01,2,15676.1,10555.4,5120.7
+ORD0272,13-01-2024,CUST1006,Backpack,Accessories,East,Consumer,Retail Store,Net Banking,8,1829.2,5,13901.92,8983.05,4918.87
+ORD0524,15-01-2024,CUST1208,Headphones,Electronics,Central,Consumer,Retail Store,Credit Card,5,2355.54,12,10364.38,7951.81,2412.57
+ORD0323,17-01-2024,CUST1188,Smartphone,Electronics,South,Corporate,Online,Credit Card,7,20675.93,15,123021.78,84295.43,38726.35
+ORD0228,21-01-2024,CUST1104,Office Chair,Furniture,West,Consumer,Distributor,Credit Card,1,9010.73,10,8109.66,5324.03,2785.63
+ORD0337,21-01-2024,CUST1013,Smartphone,Electronics,South,Consumer,Retail Store,Debit Card,3,20771.5,15,52967.32,40659.17,12308.15
+ORD0374,23-01-2024,CUST1016,Bookshelf,Furniture,West,Small Business,Distributor,UPI,4,7107.36,10,25586.5,16338.26,9248.24
+ORD0379,23-01-2024,CUST1136,Printer,Office Supplies,Central,Consumer,Online,Cash,5,9936.15,0,49680.75,28505.93,21174.82
+ORD0123,24-01-2024,CUST1186,Keyboard,Accessories,East,Consumer,Online,UPI,2,1403.27,8,2582.02,1689.42,892.6
+ORD0364,25-01-2024,CUST1035,Notebook Pack,Office Supplies,East,Consumer,Retail Store,Net Banking,7,442.33,5,2941.49,1813.32,1128.17
+ORD0513,27-01-2024,CUST1160,Notebook Pack,Office Supplies,Central,Corporate,Retail Store,Cash,1,450.6,15,383.01,230.4,152.61
+ORD0320,29-01-2024,CUST1048,Bookshelf,Furniture,North,Corporate,Distributor,Net Banking,3,6578.8,5,18749.58,12862.43,5887.15
+ORD0147,02-02-2024,CUST1114,Office Chair,Furniture,South,Small Business,Distributor,Credit Card,5,7830.21,2,38368.03,25406.19,12961.84
+ORD0021,03-02-2024,CUST1061,Pen Set,Office Supplies,North,Consumer,Retail Store,Net Banking,3,256.89,0,770.67,431.34,339.33
+ORD0138,06-02-2024,CUST1128,Notebook Pack,Office Supplies,West,Consumer,Retail Store,UPI,6,479.31,10,2588.27,1481.81,1106.46
+ORD0511,07-02-2024,CUST1197,Bookshelf,Furniture,South,Consumer,Distributor,Credit Card,6,6973.02,10,37654.31,26100.32,11553.99
+ORD0158,08-02-2024,CUST1022,Office Chair,Furniture,South,Consumer,Retail Store,Net Banking,1,8059.76,12,7092.59,4572.43,2520.16
+ORD0300,09-02-2024,CUST1157,Bookshelf,Furniture,South,Consumer,Online,Cash,3,6874.73,5,19592.98,12993.63,6599.35
+ORD0279,13-02-2024,CUST1014,Headphones,Electronics,East,Consumer,Retail Store,Credit Card,4,2444.52,8,8995.83,6842.43,2153.4
+ORD0345,22-02-2024,CUST1052,Laptop,Electronics,South,Consumer,Online,Net Banking,3,54518.26,0,163554.78,114638.52,48916.26
+ORD0173,25-02-2024,CUST1077,Desk,Furniture,South,Corporate,Online,Cash,8,11766.9,5,89428.44,56867.26,32561.18
+ORD0072,01-03-2024,CUST1041,Keyboard,Accessories,West,Consumer,Online,Cash,5,1419.82,8,6531.17,4267.21,2263.96
+ORD0414,03-03-2024,CUST1240,Printer,Office Supplies,South,Consumer,Distributor,Credit Card,2,9896.48,0,19792.96,11738.8,8054.16
+ORD0413,04-03-2024,CUST1081,Backpack,Accessories,North,Small Business,Distributor,Net Banking,2,1669.67,8,3072.19,1777.84,1294.35
+ORD0129,07-03-2024,CUST1037,Bookshelf,Furniture,Central,Consumer,Online,Debit Card,2,6979.87,15,11865.78,8653.82,3211.96
+ORD0356,07-03-2024,CUST1018,Bookshelf,Furniture,South,Consumer,Distributor,Credit Card,8,7083.8,10,51003.36,34500.68,16502.68
+ORD0112,10-03-2024,CUST1246,Pen Set,Office Supplies,West,Corporate,Retail Store,Credit Card,7,246.77,12,1520.1,883.72,636.38
+ORD0311,11-03-2024,CUST1079,Keyboard,Accessories,South,Consumer,Retail Store,Credit Card,4,1519.31,8,5591.06,3398.09,2192.97
+ORD0212,16-03-2024,CUST1140,Notebook Pack,Office Supplies,South,Corporate,Distributor,Debit Card,3,435.33,15,1110.09,609.84,500.25
+ORD0247,16-03-2024,CUST1237,Printer,Office Supplies,North,Corporate,Online,Credit Card,3,9090.63,12,23999.26,14823.32,9175.94
+ORD0299,16-03-2024,CUST1118,Backpack,Accessories,East,Consumer,Online,UPI,7,1741.5,8,11215.26,6464.64,4750.62
+ORD0184,19-03-2024,CUST1218,Tablet,Electronics,Central,Small Business,Online,Debit Card,6,18386.6,15,93771.66,66748.9,27022.76
+ORD0252,23-03-2024,CUST1048,Notebook Pack,Office Supplies,West,Consumer,Online,Debit Card,2,475.24,8,874.44,502.82,371.62
+ORD0034,28-03-2024,CUST1114,Smartphone,Electronics,South,Consumer,Retail Store,Net Banking,7,21112.4,2,144831.06,99884.7,44946.36
+ORD0260,29-03-2024,CUST1233,Laptop,Electronics,North,Small Business,Distributor,Debit Card,2,50757.18,10,91362.92,70254.04,21108.88
+ORD0512,29-03-2024,CUST1010,Bookshelf,Furniture,East,Consumer,Online,Cash,6,7330.43,15,37385.19,24539.2,12845.99
+ORD0544,04-04-2024,CUST1144,Keyboard,Accessories,North,Consumer,Online,Debit Card,6,1417.5,8,7824.6,4812.98,3011.62
+ORD0567,06-04-2024,CUST1039,Headphones,Electronics,East,Consumer,Online,Net Banking,5,2436.1,12,10718.84,7285.17,3433.67
+ORD0166,08-04-2024,CUST1091,Bookshelf,Furniture,North,Consumer,Distributor,UPI,3,6501.9,5,18530.41,12313.12,6217.29
+ORD0157,09-04-2024,CUST1078,Office Chair,Furniture,East,Consumer,Retail Store,Cash,2,8840.36,8,16266.26,10998.55,5267.71
+ORD0290,11-04-2024,CUST1126,Pen Set,Office Supplies,South,Corporate,Online,Debit Card,3,236.07,5,672.8,380.98,291.82
+ORD0492,11-04-2024,CUST1239,Notebook Pack,Office Supplies,East,Consumer,Online,Debit Card,3,458.29,5,1306.13,743.18,562.95
+ORD0503,11-04-2024,CUST1101,Pen Set,Office Supplies,Central,Consumer,Retail Store,Debit Card,3,267.59,10,722.49,449.97,272.52
+ORD0552,13-04-2024,CUST1214,Smartphone,Electronics,East,Corporate,Online,UPI,5,22736.64,0,113683.2,85724.59,27958.61
+ORD0521,15-04-2024,CUST1115,Smartphone,Electronics,West,Corporate,Retail Store,Net Banking,1,22593.1,5,21463.44,16227.36,5236.08
+ORD0117,17-04-2024,CUST1157,Notebook Pack,Office Supplies,East,Small Business,Online,UPI,7,477.91,12,2943.93,1678.69,1265.24
+ORD0172,17-04-2024,CUST1083,Pen Set,Office Supplies,West,Small Business,Distributor,Cash,4,248.04,12,873.1,511.9,361.2
+ORD0246,18-04-2024,CUST1039,Office Chair,Furniture,West,Corporate,Online,Credit Card,5,9099.86,15,38674.4,24898.94,13775.46
+ORD0382,18-04-2024,CUST1080,Tablet,Electronics,West,Consumer,Online,Cash,5,16860.24,2,82615.18,58672.55,23942.63
+ORD0007,21-04-2024,CUST1200,Pen Set,Office Supplies,Central,Consumer,Retail Store,Credit Card,6,238,0,1428,762.96,665.04
+ORD0369,23-04-2024,CUST1023,Printer,Office Supplies,West,Consumer,Online,Net Banking,1,10176.1,0,10176.1,5850.45,4325.65
+ORD0380,25-04-2024,CUST1017,Pen Set,Office Supplies,South,Consumer,Retail Store,Net Banking,2,260.7,10,469.26,266.79,202.47
+ORD0009,26-04-2024,CUST1199,Notebook Pack,Office Supplies,West,Corporate,Retail Store,Debit Card,5,453.86,10,2042.37,1195.8,846.57
+ORD0541,28-04-2024,CUST1078,Keyboard,Accessories,North,Corporate,Online,Cash,6,1583.92,12,8363.1,5013.42,3349.68
+ORD0169,30-04-2024,CUST1201,Laptop,Electronics,South,Consumer,Distributor,Debit Card,1,57694.48,10,51925.03,35414.08,16510.95
+ORD0144,01-05-2024,CUST1123,Tablet,Electronics,Central,Small Business,Online,Net Banking,5,18380.74,10,82713.33,57972.91,24740.42
+ORD0241,03-05-2024,CUST1188,Printer,Office Supplies,North,Consumer,Retail Store,Cash,5,9777.53,10,43998.89,23780.24,20218.65
+ORD0242,04-05-2024,CUST1186,Laptop,Electronics,East,Consumer,Online,Credit Card,4,52686.15,12,185455.25,140572.7,44882.55
+ORD0238,05-05-2024,CUST1066,Notebook Pack,Office Supplies,South,Consumer,Online,Debit Card,7,425.05,12,2618.31,1456.99,1161.32
+ORD0003,08-05-2024,CUST1017,Tablet,Electronics,North,Consumer,Distributor,Debit Card,3,18743.29,10,50606.88,35588.85,15018.03
+ORD0447,09-05-2024,CUST1224,Notebook Pack,Office Supplies,Central,Corporate,Retail Store,Cash,3,416.37,5,1186.65,645.98,540.67
+ORD0484,09-05-2024,CUST1169,Smartphone,Electronics,Central,Corporate,Retail Store,Cash,8,22502.41,2,176418.89,120716.62,55702.27
+ORD0534,11-05-2024,CUST1213,Notebook Pack,Office Supplies,South,Consumer,Retail Store,Credit Card,3,431.35,15,1099.94,641.88,458.06
+ORD0059,14-05-2024,CUST1204,Tablet,Electronics,North,Corporate,Retail Store,UPI,5,19011.26,10,85550.67,58198.46,27352.21
+ORD0348,15-05-2024,CUST1059,Notebook Pack,Office Supplies,West,Consumer,Online,Debit Card,5,461.96,12,2032.62,1150.86,881.76
+ORD0593,16-05-2024,CUST1124,Laptop,Electronics,South,Small Business,Distributor,Credit Card,5,54630.92,0,273154.6,192937.67,80216.93
+ORD0062,17-05-2024,CUST1237,Bookshelf,Furniture,West,Corporate,Retail Store,Debit Card,2,6777.5,2,13283.9,9145.81,4138.09
+ORD0202,18-05-2024,CUST1157,Bookshelf,Furniture,South,Corporate,Online,Credit Card,2,7276.94,5,13826.19,9995.53,3830.66
+ORD0182,23-05-2024,CUST1155,Desk,Furniture,West,Consumer,Retail Store,UPI,4,11116.98,12,39131.77,26446.66,12685.11
+ORD0243,23-05-2024,CUST1240,Bookshelf,Furniture,North,Consumer,Online,Cash,1,7479.33,10,6731.4,4571.36,2160.04
+ORD0220,28-05-2024,CUST1200,Smartphone,Electronics,South,Consumer,Online,Credit Card,3,23434.77,2,68898.22,52009.43,16888.79
+ORD0405,29-05-2024,CUST1228,Pen Set,Office Supplies,South,Consumer,Online,UPI,2,258.24,15,439.01,259.42,179.59
+ORD0308,31-05-2024,CUST1108,Tablet,Electronics,East,Consumer,Online,Cash,5,18282.72,8,84100.51,64409.51,19691
+ORD0136,02-06-2024,CUST1212,Printer,Office Supplies,Central,Consumer,Online,UPI,6,8801.19,15,44886.07,25824.12,19061.95
+ORD0472,02-06-2024,CUST1149,Laptop,Electronics,North,Corporate,Retail Store,Cash,2,51959.11,10,93526.4,65222.76,28303.64
+ORD0231,03-06-2024,CUST1090,Laptop,Electronics,East,Small Business,Online,Credit Card,7,58917.3,5,391800.05,261824.87,129975.18
+ORD0367,03-06-2024,CUST1134,Pen Set,Office Supplies,North,Consumer,Online,Credit Card,8,239.01,0,1912.08,1148.76,763.32
+ORD0404,03-06-2024,CUST1215,Smartphone,Electronics,East,Consumer,Online,Credit Card,3,22360.51,12,59031.75,41673.13,17358.62
+ORD0006,05-06-2024,CUST1176,Headphones,Electronics,South,Corporate,Online,UPI,7,2424.95,10,15277.18,11584.32,3692.86
+ORD0316,07-06-2024,CUST1105,Smartphone,Electronics,Central,Corporate,Retail Store,Cash,3,21530.37,12,56840.18,41065.34,15774.84
+ORD0180,12-06-2024,CUST1093,Tablet,Electronics,East,Small Business,Retail Store,Net Banking,4,17762.74,15,60393.32,40828.27,19565.05
+ORD0162,16-06-2024,CUST1141,Printer,Office Supplies,South,Consumer,Retail Store,UPI,7,9325.76,5,62016.3,34649.79,27366.51
+ORD0443,16-06-2024,CUST1200,Laptop,Electronics,North,Consumer,Online,Cash,7,50709.7,5,337219.5,240235.48,96984.02
+ORD0305,19-06-2024,CUST1178,Desk,Furniture,North,Consumer,Retail Store,UPI,3,11219.68,2,32985.86,23822.97,9162.89
+ORD0594,20-06-2024,CUST1164,Headphones,Electronics,East,Consumer,Distributor,Debit Card,8,2564.18,10,18462.1,13352.22,5109.88
+ORD0589,23-06-2024,CUST1235,Office Chair,Furniture,West,Corporate,Online,UPI,6,8874.32,2,52181,35680.18,16500.82
+ORD0135,28-06-2024,CUST1019,Office Chair,Furniture,North,Consumer,Retail Store,Net Banking,6,8717.53,8,48120.77,33244.08,14876.69
+ORD0028,02-07-2024,CUST1170,Desk,Furniture,North,Consumer,Online,Credit Card,2,11273.92,0,22547.84,15348.06,7199.78
+ORD0248,02-07-2024,CUST1072,Smartphone,Electronics,West,Small Business,Distributor,Net Banking,2,21121.52,12,37173.88,25749.71,11424.17
+ORD0038,06-07-2024,CUST1060,Notebook Pack,Office Supplies,Central,Small Business,Online,Debit Card,2,431.96,15,734.33,430.77,303.56
+ORD0276,06-07-2024,CUST1243,Laptop,Electronics,North,Consumer,Distributor,Cash,5,52877.75,15,224730.44,161923.59,62806.85
+ORD0226,07-07-2024,CUST1062,Bookshelf,Furniture,East,Consumer,Retail Store,Net Banking,8,7264.91,12,51144.97,35768.92,15376.05
+ORD0419,08-07-2024,CUST1117,Pen Set,Office Supplies,East,Consumer,Retail Store,Net Banking,1,242.13,5,230.02,126.43,103.59
+ORD0151,09-07-2024,CUST1027,Bookshelf,Furniture,South,Corporate,Retail Store,Debit Card,1,7559.35,15,6425.45,4380.81,2044.64
+ORD0071,11-07-2024,CUST1189,Office Chair,Furniture,East,Small Business,Retail Store,Net Banking,4,8755.22,5,33269.84,23367.01,9902.83
+ORD0456,14-07-2024,CUST1197,Bookshelf,Furniture,North,Consumer,Online,Debit Card,5,6504.18,0,32520.9,23353.61,9167.29
+ORD0294,15-07-2024,CUST1224,Headphones,Electronics,South,Corporate,Online,Credit Card,8,2374.39,2,18615.22,13023.96,5591.26
+ORD0584,15-07-2024,CUST1049,Smartphone,Electronics,North,Corporate,Online,Debit Card,6,23394.92,12,123525.18,82196.04,41329.14
+ORD0520,19-07-2024,CUST1101,Notebook Pack,Office Supplies,East,Small Business,Retail Store,Cash,3,423.61,0,1270.83,700.8,570.03
+ORD0229,20-07-2024,CUST1059,Pen Set,Office Supplies,West,Small Business,Distributor,Credit Card,7,260.81,5,1734.39,979.69,754.7
+ORD0261,22-07-2024,CUST1198,Keyboard,Accessories,East,Small Business,Distributor,UPI,2,1612.97,15,2742.05,1713.76,1028.29
+ORD0432,22-07-2024,CUST1072,Office Chair,Furniture,North,Consumer,Online,Debit Card,8,8303.08,2,65096.15,43005.27,22090.88
+ORD0469,22-07-2024,CUST1213,Keyboard,Accessories,West,Small Business,Distributor,Cash,4,1561.29,15,5308.39,3348.83,1959.56
+ORD0244,02-08-2024,CUST1121,Printer,Office Supplies,West,Corporate,Online,Debit Card,5,10140.96,10,45634.32,26440.41,19193.91
+ORD0101,03-08-2024,CUST1062,Headphones,Electronics,South,Consumer,Online,Credit Card,7,2391.3,10,15065.19,10553.18,4512.01
+ORD0366,03-08-2024,CUST1044,Headphones,Electronics,West,Corporate,Online,Credit Card,7,2605.92,8,16782.12,11813.56,4968.56
+ORD0234,05-08-2024,CUST1223,Smartphone,Electronics,East,Consumer,Retail Store,Credit Card,2,23097.37,0,46194.74,32459.65,13735.09
+ORD0438,07-08-2024,CUST1069,Smartphone,Electronics,South,Consumer,Retail Store,Debit Card,1,20571.69,0,20571.69,14078.68,6493.01
+ORD0110,10-08-2024,CUST1074,Smartphone,Electronics,West,Consumer,Online,Debit Card,5,22575.95,0,112879.75,85645.87,27233.88
+ORD0194,11-08-2024,CUST1217,Printer,Office Supplies,West,Consumer,Distributor,Net Banking,5,10182.24,10,45820.08,25928.9,19891.18
+ORD0063,12-08-2024,CUST1033,Notebook Pack,Office Supplies,South,Small Business,Online,Cash,4,443.09,8,1630.57,941.82,688.75
+ORD0373,13-08-2024,CUST1213,Backpack,Accessories,West,Corporate,Distributor,UPI,7,1822.94,12,11229.31,7103.38,4125.93
+ORD0189,15-08-2024,CUST1098,Pen Set,Office Supplies,North,Small Business,Distributor,Net Banking,6,261.83,0,1570.98,917.83,653.15
+ORD0190,18-08-2024,CUST1115,Keyboard,Accessories,Central,Small Business,Retail Store,Cash,4,1472.72,8,5419.61,3285.75,2133.86
+ORD0023,22-08-2024,CUST1227,Office Chair,Furniture,South,Small Business,Online,Net Banking,2,8215.65,15,13966.6,9520.17,4446.43
+ORD0274,22-08-2024,CUST1114,Bookshelf,Furniture,North,Consumer,Distributor,UPI,1,7383.77,0,7383.77,4879.49,2504.28
+ORD0587,22-08-2024,CUST1128,Desk,Furniture,West,Small Business,Online,UPI,7,12572.18,12,77444.63,54740.2,22704.43
+ORD0341,25-08-2024,CUST1060,Bookshelf,Furniture,South,Corporate,Distributor,Debit Card,3,7215.9,2,21214.75,13329.74,7885.01
+ORD0464,28-08-2024,CUST1228,Desk,Furniture,East,Corporate,Online,Net Banking,7,12829.65,8,82622.95,56761.59,25861.36
+ORD0560,28-08-2024,CUST1222,Printer,Office Supplies,Central,Consumer,Retail Store,Net Banking,1,9006.01,0,9006.01,4891.16,4114.85
+ORD0245,02-09-2024,CUST1162,Desk,Furniture,Central,Consumer,Online,Net Banking,4,11222.76,2,43993.22,27524.88,16468.34
+ORD0581,02-09-2024,CUST1130,Tablet,Electronics,Central,Corporate,Online,UPI,4,18551.68,15,63075.71,48700.35,14375.36
+ORD0548,05-09-2024,CUST1182,Desk,Furniture,South,Small Business,Online,Net Banking,6,12797.43,0,76784.58,52368.74,24415.84
+ORD0392,09-09-2024,CUST1022,Notebook Pack,Office Supplies,Central,Corporate,Online,Cash,3,431.61,10,1165.35,623.04,542.31
+ORD0048,11-09-2024,CUST1200,Laptop,Electronics,East,Consumer,Retail Store,Cash,7,54930.95,15,326839.15,239074.07,87765.08
+ORD0178,11-09-2024,CUST1135,Laptop,Electronics,South,Consumer,Retail Store,UPI,4,59095.66,2,231654.99,179162.99,52492
+ORD0535,13-09-2024,CUST1048,Tablet,Electronics,North,Consumer,Online,Debit Card,2,17319.7,10,31175.46,21269.67,9905.79
+ORD0580,15-09-2024,CUST1220,Smartphone,Electronics,South,Corporate,Distributor,Net Banking,7,22068.94,8,142123.97,107770.22,34353.75
+ORD0280,18-09-2024,CUST1124,Headphones,Electronics,South,Small Business,Online,Cash,1,2349.58,8,2161.61,1491.23,670.38
+ORD0467,18-09-2024,CUST1097,Pen Set,Office Supplies,South,Small Business,Online,Cash,4,246.56,12,867.89,509.06,358.83
+ORD0483,21-09-2024,CUST1183,Notebook Pack,Office Supplies,East,Consumer,Online,Credit Card,3,458.77,15,1169.86,654.36,515.5
+ORD0176,26-09-2024,CUST1007,Keyboard,Accessories,North,Consumer,Retail Store,Net Banking,5,1558.43,0,7792.15,5103.33,2688.82
+ORD0440,26-09-2024,CUST1125,Bookshelf,Furniture,East,Consumer,Distributor,Credit Card,7,6976.73,15,41511.54,26089.21,15422.33
+ORD0569,27-09-2024,CUST1125,Keyboard,Accessories,West,Consumer,Distributor,Net Banking,8,1502.84,10,10820.45,6625.94,4194.51
+ORD0251,29-09-2024,CUST1104,Pen Set,Office Supplies,Central,Consumer,Retail Store,Credit Card,1,250.22,8,230.2,136.44,93.76
+ORD0532,29-09-2024,CUST1117,Tablet,Electronics,South,Consumer,Online,Debit Card,2,19412.47,0,38824.94,30173.57,8651.37
+ORD0078,05-10-2024,CUST1027,Smartphone,Electronics,Central,Consumer,Online,Net Banking,5,21642.9,8,99557.34,76467.73,23089.61
+ORD0574,07-10-2024,CUST1250,Keyboard,Accessories,East,Corporate,Online,Credit Card,6,1464.07,2,8608.73,4920.85,3687.88
+ORD0104,08-10-2024,CUST1041,Notebook Pack,Office Supplies,Central,Consumer,Distributor,Debit Card,5,469.65,8,2160.39,1324.3,836.09
+ORD0577,08-10-2024,CUST1005,Pen Set,Office Supplies,Central,Corporate,Online,Debit Card,7,252.04,2,1728.99,932.02,796.97
+ORD0094,09-10-2024,CUST1039,Printer,Office Supplies,West,Consumer,Online,Credit Card,3,10068.96,2,29602.74,16574.14,13028.6
+ORD0330,12-10-2024,CUST1181,Keyboard,Accessories,East,Consumer,Online,Net Banking,7,1504.74,0,10533.18,6392.89,4140.29
+ORD0583,16-10-2024,CUST1102,Smartphone,Electronics,South,Corporate,Online,Debit Card,6,21239.7,8,117243.14,79266.79,37976.35
+ORD0318,21-10-2024,CUST1038,Bookshelf,Furniture,North,Corporate,Distributor,UPI,2,6449.65,8,11867.36,7485.23,4382.13
+ORD0371,22-10-2024,CUST1024,Office Chair,Furniture,West,Corporate,Online,Cash,5,7979.05,0,39895.25,25406.95,14488.3
+ORD0230,26-10-2024,CUST1178,Headphones,Electronics,West,Small Business,Online,Debit Card,2,2525.41,15,4293.2,3088.93,1204.27
+ORD0291,28-10-2024,CUST1145,Bookshelf,Furniture,East,Small Business,Online,Debit Card,6,7318.89,15,37326.34,27280.86,10045.48
+ORD0199,31-10-2024,CUST1180,Laptop,Electronics,East,Consumer,Distributor,Net Banking,3,51130.91,8,141121.31,106845.63,34275.68
+ORD0321,01-11-2024,CUST1187,Printer,Office Supplies,South,Small Business,Distributor,Cash,4,9115.85,12,32087.79,18777.31,13310.48
+ORD0551,01-11-2024,CUST1013,Smartphone,Electronics,North,Consumer,Retail Store,Debit Card,5,22813.61,15,96957.84,71226.12,25731.72
+ORD0389,02-11-2024,CUST1064,Notebook Pack,Office Supplies,Central,Corporate,Retail Store,UPI,1,425.16,8,391.15,217.58,173.57
+ORD0223,04-11-2024,CUST1135,Backpack,Accessories,South,Consumer,Online,Net Banking,7,1744.07,15,10377.22,6556.29,3820.93
+ORD0572,05-11-2024,CUST1055,Pen Set,Office Supplies,North,Small Business,Online,Net Banking,8,269.77,15,1834.44,1081.81,752.63
+ORD0041,06-11-2024,CUST1172,Pen Set,Office Supplies,West,Corporate,Retail Store,UPI,8,248.51,15,1689.87,962.1,727.77
+ORD0124,06-11-2024,CUST1213,Office Chair,Furniture,East,Consumer,Online,Debit Card,2,8614.55,0,17229.1,12156.54,5072.56
+ORD0599,06-11-2024,CUST1053,Headphones,Electronics,South,Consumer,Online,Cash,7,2509.97,8,16164.21,12290.78,3873.43
+ORD0546,07-11-2024,CUST1209,Smartphone,Electronics,North,Consumer,Online,Cash,7,20896.32,10,131646.82,90528.27,41118.55
+ORD0309,08-11-2024,CUST1026,Keyboard,Accessories,Central,Consumer,Online,UPI,7,1448.99,5,9635.78,5663.08,3972.7
+ORD0401,09-11-2024,CUST1134,Pen Set,Office Supplies,West,Consumer,Retail Store,Debit Card,1,260.98,0,260.98,153.55,107.43
+ORD0381,13-11-2024,CUST1240,Office Chair,Furniture,South,Small Business,Online,Debit Card,5,9097.78,12,40030.23,27921.18,12109.05
+ORD0209,14-11-2024,CUST1178,Keyboard,Accessories,East,Small Business,Distributor,Cash,5,1490.62,12,6558.73,3793.9,2764.83
+ORD0425,15-11-2024,CUST1037,Keyboard,Accessories,West,Consumer,Online,Credit Card,1,1399.33,0,1399.33,899.1,500.23
+ORD0531,16-11-2024,CUST1014,Tablet,Electronics,Central,Consumer,Online,UPI,8,16811.54,10,121043.09,86328.58,34714.51
+ORD0429,18-11-2024,CUST1153,Office Chair,Furniture,North,Small Business,Retail Store,Cash,6,8837.15,2,51962.44,34513.58,17448.86
+ORD0079,20-11-2024,CUST1106,Printer,Office Supplies,South,Consumer,Online,UPI,3,10149.74,0,30449.22,17514.2,12935.02
+ORD0075,23-11-2024,CUST1211,Tablet,Electronics,North,Consumer,Retail Store,Credit Card,6,16802.25,8,92748.42,64040.05,28708.37
+ORD0553,26-11-2024,CUST1025,Office Chair,Furniture,North,Consumer,Online,Debit Card,5,8167.08,8,37568.57,23630.59,13937.98
+ORD0221,28-11-2024,CUST1101,Headphones,Electronics,West,Consumer,Online,Credit Card,1,2460.82,15,2091.7,1439.68,652.02
+ORD0372,30-11-2024,CUST1135,Tablet,Electronics,South,Consumer,Retail Store,Credit Card,6,19252.68,10,103964.47,73482.06,30482.41
+ORD0042,01-12-2024,CUST1059,Tablet,Electronics,South,Consumer,Online,UPI,4,17618.43,10,63426.35,44690.74,18735.61
+ORD0249,01-12-2024,CUST1081,Bookshelf,Furniture,West,Small Business,Retail Store,Net Banking,3,7403.17,10,19988.56,14533.75,5454.81
+ORD0328,04-12-2024,CUST1026,Headphones,Electronics,West,Corporate,Retail Store,UPI,5,2409.26,12,10600.74,7665.99,2934.75
+ORD0450,10-12-2024,CUST1214,Office Chair,Furniture,North,Consumer,Distributor,Debit Card,1,8041.92,15,6835.63,4653.62,2182.01
+ORD0200,11-12-2024,CUST1158,Notebook Pack,Office Supplies,West,Consumer,Retail Store,UPI,7,439.03,12,2704.42,1609.35,1095.07
+ORD0408,11-12-2024,CUST1038,Laptop,Electronics,West,Corporate,Online,Debit Card,5,52497.02,2,257235.4,178390.8,78844.6
+ORD0526,12-12-2024,CUST1048,Office Chair,Furniture,East,Consumer,Online,Net Banking,2,8647.29,12,15219.23,9815.58,5403.65
+ORD0417,14-12-2024,CUST1064,Smartphone,Electronics,Central,Consumer,Online,Credit Card,1,20919.39,2,20501,14859.29,5641.71
+ORD0525,15-12-2024,CUST1073,Bookshelf,Furniture,West,Corporate,Online,Debit Card,5,6735.18,8,30981.83,20537.37,10444.46
+ORD0171,18-12-2024,CUST1110,Headphones,Electronics,South,Consumer,Distributor,UPI,1,2443.47,10,2199.12,1560.23,638.89
+ORD0140,19-12-2024,CUST1195,Notebook Pack,Office Supplies,West,Consumer,Online,Net Banking,2,475.97,2,932.9,519.15,413.75
+ORD0133,21-12-2024,CUST1189,Printer,Office Supplies,North,Small Business,Online,Cash,2,9405.74,15,15989.76,9480.34,6509.42
+ORD0433,21-12-2024,CUST1071,Backpack,Accessories,Central,Small Business,Online,Debit Card,2,1816.19,0,3632.38,2196.42,1435.96
+ORD0022,23-12-2024,CUST1058,Notebook Pack,Office Supplies,West,Small Business,Online,Cash,8,416.69,15,2833.49,1657.85,1175.64
+ORD0289,23-12-2024,CUST1230,Desk,Furniture,East,Consumer,Online,Credit Card,1,11559.05,15,9825.19,7102.03,2723.16
+ORD0412,23-12-2024,CUST1114,Headphones,Electronics,West,Small Business,Online,Net Banking,2,2518.73,8,4634.46,3560.56,1073.9
+ORD0505,25-12-2024,CUST1132,Smartphone,Electronics,East,Small Business,Online,Net Banking,3,23506.06,8,64876.73,50150.88,14725.85
+ORD0538,27-12-2024,CUST1161,Printer,Office Supplies,East,Small Business,Retail Store,UPI,3,9570.13,12,25265.14,13772.26,11492.88
+ORD0326,29-12-2024,CUST1051,Office Chair,Furniture,East,Small Business,Distributor,Debit Card,2,8553.64,0,17107.28,11598.28,5509
+ORD0050,05-01-2025,CUST1092,Notebook Pack,Office Supplies,South,Small Business,Retail Store,Cash,3,436.64,12,1152.73,631.96,520.77
+ORD0088,06-01-2025,CUST1075,Headphones,Electronics,South,Small Business,Online,Cash,7,2536.13,15,15089.97,10685.62,4404.35
+ORD0487,06-01-2025,CUST1228,Pen Set,Office Supplies,South,Consumer,Online,Credit Card,4,241.89,15,822.43,454.89,367.54
+ORD0370,10-01-2025,CUST1222,Laptop,Electronics,Central,Small Business,Online,Credit Card,7,51030.1,2,350066.49,262294.75,87771.74
+ORD0516,10-01-2025,CUST1065,Laptop,Electronics,South,Small Business,Online,Credit Card,5,56056.99,0,280284.95,200741,79543.95
+ORD0281,13-01-2025,CUST1172,Notebook Pack,Office Supplies,South,Small Business,Distributor,UPI,2,465.15,10,837.27,502.21,335.06
+ORD0579,14-01-2025,CUST1171,Laptop,Electronics,South,Consumer,Retail Store,UPI,5,51721.35,12,227573.94,154011.82,73562.12
+ORD0481,16-01-2025,CUST1062,Headphones,Electronics,South,Corporate,Online,UPI,4,2301.6,15,7825.44,5312.66,2512.78
+ORD0504,16-01-2025,CUST1020,Printer,Office Supplies,Central,Small Business,Online,Debit Card,6,9892.19,10,53417.83,33271.73,20146.1
+ORD0561,17-01-2025,CUST1171,Tablet,Electronics,North,Consumer,Retail Store,Net Banking,1,18723.11,12,16476.34,11274.68,5201.66
+ORD0114,18-01-2025,CUST1215,Desk,Furniture,North,Small Business,Online,Cash,2,12792.16,15,21746.67,14106.67,7640
+ORD0493,21-01-2025,CUST1149,Laptop,Electronics,South,Consumer,Retail Store,Cash,2,54327.55,12,95616.49,66634.39,28982.1
+ORD0554,26-01-2025,CUST1110,Pen Set,Office Supplies,East,Consumer,Online,Debit Card,5,248.96,5,1182.56,694.76,487.8
+ORD0266,29-01-2025,CUST1085,Printer,Office Supplies,Central,Consumer,Online,Cash,6,8848.29,15,45126.28,26069.83,19056.45
+ORD0301,29-01-2025,CUST1228,Bookshelf,Furniture,Central,Consumer,Retail Store,Cash,3,7024.62,15,17912.78,12979.35,4933.43
+ORD0307,30-01-2025,CUST1053,Laptop,Electronics,North,Consumer,Online,Cash,8,58950.09,12,415008.63,311069.37,103939.26
+ORD0376,30-01-2025,CUST1150,Desk,Furniture,North,Consumer,Retail Store,Debit Card,3,11874.44,12,31348.52,22760.79,8587.73
+ORD0514,12-02-2025,CUST1092,Bookshelf,Furniture,South,Consumer,Online,Debit Card,3,6877.88,15,17538.59,12124.44,5414.15
+ORD0444,14-02-2025,CUST1213,Smartphone,Electronics,Central,Corporate,Distributor,Net Banking,4,22022.79,0,88091.16,60614.98,27476.18
+ORD0263,15-02-2025,CUST1033,Laptop,Electronics,West,Small Business,Online,Cash,6,53347.49,8,294478.14,227950.12,66528.02
+ORD0037,16-02-2025,CUST1247,Laptop,Electronics,North,Consumer,Retail Store,UPI,5,54063.95,10,243287.77,170066.08,73221.69
+ORD0398,17-02-2025,CUST1025,Tablet,Electronics,West,Small Business,Retail Store,Net Banking,3,18306,12,48327.84,32381.77,15946.07
+ORD0424,17-02-2025,CUST1092,Bookshelf,Furniture,Central,Corporate,Online,UPI,7,6444.89,12,39700.52,27027.6,12672.92
+ORD0258,18-02-2025,CUST1195,Office Chair,Furniture,North,Consumer,Retail Store,Credit Card,5,8922.31,10,40150.39,28227.07,11923.32
+ORD0416,18-02-2025,CUST1169,Printer,Office Supplies,West,Consumer,Retail Store,UPI,2,9151.33,12,16106.34,9002.14,7104.2
+ORD0086,20-02-2025,CUST1013,Printer,Office Supplies,West,Small Business,Retail Store,Credit Card,7,9096.49,5,60491.66,35769.45,24722.21
+ORD0211,20-02-2025,CUST1033,Tablet,Electronics,North,Small Business,Distributor,Cash,6,19122.91,15,97526.84,68133.51,29393.33
+ORD0353,20-02-2025,CUST1231,Notebook Pack,Office Supplies,Central,Corporate,Distributor,Cash,3,477.48,5,1360.82,818.25,542.57
+ORD0197,22-02-2025,CUST1070,Keyboard,Accessories,West,Consumer,Online,UPI,5,1501.97,8,6909.06,4240.21,2668.85
+ORD0143,25-02-2025,CUST1091,Keyboard,Accessories,East,Corporate,Online,Credit Card,5,1590.03,5,7552.64,4765.22,2787.42
+ORD0046,06-03-2025,CUST1201,Bookshelf,Furniture,North,Small Business,Online,Net Banking,8,7104.92,2,55702.57,39590.57,16112
+ORD0277,06-03-2025,CUST1057,Backpack,Accessories,North,Consumer,Distributor,Debit Card,7,1808.85,5,12028.85,8026.51,4002.34
+ORD0451,06-03-2025,CUST1121,Desk,Furniture,West,Small Business,Online,UPI,3,11590.55,15,29555.9,21275.84,8280.06
+ORD0499,10-03-2025,CUST1007,Keyboard,Accessories,South,Corporate,Retail Store,Credit Card,7,1430.69,8,9213.64,5428.17,3785.47
+ORD0203,13-03-2025,CUST1048,Headphones,Electronics,East,Small Business,Online,UPI,3,2416.53,2,7104.6,5139.37,1965.23
+ORD0264,14-03-2025,CUST1236,Laptop,Electronics,South,Consumer,Online,Cash,4,57060.49,10,205417.76,141162.28,64255.48
+ORD0347,14-03-2025,CUST1131,Backpack,Accessories,East,Consumer,Distributor,UPI,5,1774.43,15,7541.33,4800.85,2740.48
+ORD0387,14-03-2025,CUST1077,Smartphone,Electronics,South,Consumer,Retail Store,Net Banking,5,21591.51,5,102559.67,78938.05,23621.62
+ORD0060,16-03-2025,CUST1153,Laptop,Electronics,North,Consumer,Retail Store,Debit Card,8,51079.6,12,359600.38,263730.48,95869.9
+ORD0237,16-03-2025,CUST1104,Bookshelf,Furniture,North,Corporate,Distributor,Cash,3,7024.78,10,18966.91,13336.53,5630.38
+ORD0107,17-03-2025,CUST1032,Office Chair,Furniture,South,Consumer,Retail Store,UPI,7,8824.47,10,55594.16,36698.05,18896.11
+ORD0043,18-03-2025,CUST1193,Headphones,Electronics,East,Corporate,Online,Credit Card,7,2666.54,15,15865.91,11388.56,4477.35
+ORD0125,21-03-2025,CUST1103,Headphones,Electronics,Central,Consumer,Retail Store,Credit Card,1,2382.73,12,2096.8,1616.35,480.45
+ORD0132,23-03-2025,CUST1013,Office Chair,Furniture,East,Consumer,Distributor,Cash,3,8285.67,8,22868.45,16283.18,6585.27
+ORD0578,23-03-2025,CUST1017,Office Chair,Furniture,Central,Small Business,Online,Cash,8,8464.72,5,64331.87,46127.19,18204.68
+ORD0070,24-03-2025,CUST1039,Backpack,Accessories,North,Small Business,Distributor,Debit Card,3,1829.04,10,4938.41,2875.5,2062.91
+ORD0565,27-03-2025,CUST1202,Keyboard,Accessories,West,Corporate,Retail Store,UPI,6,1421.25,0,8527.5,5189.18,3338.32
+ORD0399,28-03-2025,CUST1036,Tablet,Electronics,East,Corporate,Online,UPI,2,18837.69,10,33907.84,25670.97,8236.87
+ORD0466,28-03-2025,CUST1214,Pen Set,Office Supplies,South,Consumer,Retail Store,Net Banking,1,254.4,15,216.24,117.98,98.26
+ORD0027,29-03-2025,CUST1125,Tablet,Electronics,South,Small Business,Online,Debit Card,3,18798.93,5,53576.95,41487.55,12089.4
+ORD0206,30-03-2025,CUST1091,Smartphone,Electronics,Central,Consumer,Distributor,Credit Card,2,20860.77,5,39635.46,28389.07,11246.39
+ORD0232,01-04-2025,CUST1054,Bookshelf,Furniture,South,Small Business,Retail Store,Cash,8,7035.05,5,53466.38,37981.69,15484.69
+ORD0344,03-04-2025,CUST1215,Desk,Furniture,Central,Corporate,Retail Store,Credit Card,6,11274.8,12,59530.94,43241.41,16289.53
+ORD0377,05-04-2025,CUST1062,Headphones,Electronics,West,Consumer,Distributor,Cash,8,2595.63,15,17650.28,12637.47,5012.81
+ORD0267,06-04-2025,CUST1201,Pen Set,Office Supplies,North,Consumer,Distributor,Credit Card,6,263.71,8,1455.68,837.05,618.63
+ORD0304,07-04-2025,CUST1055,Printer,Office Supplies,Central,Small Business,Online,UPI,5,10047.73,10,45214.78,26847.24,18367.54
+ORD0224,12-04-2025,CUST1111,Printer,Office Supplies,North,Small Business,Distributor,UPI,6,10072.55,15,51370,29925.49,21444.51
+ORD0427,12-04-2025,CUST1204,Office Chair,Furniture,South,Consumer,Online,Debit Card,5,8855.65,15,37636.51,27323.88,10312.63
+ORD0146,15-04-2025,CUST1073,Smartphone,Electronics,East,Consumer,Online,Cash,6,21147.49,10,114196.45,83352.3,30844.15
+ORD0153,16-04-2025,CUST1179,Office Chair,Furniture,South,Small Business,Distributor,Cash,8,8257.3,5,62755.48,44372.62,18382.86
+ORD0306,17-04-2025,CUST1153,Laptop,Electronics,North,Consumer,Distributor,UPI,6,53307.13,10,287858.5,200596.85,87261.65
+ORD0310,17-04-2025,CUST1101,Pen Set,Office Supplies,East,Small Business,Online,Net Banking,1,233.21,0,233.21,130.13,103.08
+ORD0324,18-04-2025,CUST1173,Backpack,Accessories,North,Small Business,Retail Store,UPI,1,1837.91,0,1837.91,1186.42,651.49
+ORD0288,24-04-2025,CUST1069,Notebook Pack,Office Supplies,West,Corporate,Distributor,Credit Card,1,443.82,12,390.56,209.94,180.62
+ORD0216,25-04-2025,CUST1143,Bookshelf,Furniture,South,Small Business,Online,Cash,1,7553.37,10,6798.03,4281.43,2516.6
+ORD0286,28-04-2025,CUST1192,Laptop,Electronics,West,Small Business,Distributor,UPI,4,57696.31,0,230785.24,161072.99,69712.25
+ORD0201,02-05-2025,CUST1123,Notebook Pack,Office Supplies,Central,Consumer,Online,Net Banking,6,450.41,12,2378.16,1431.54,946.62
+ORD0097,04-05-2025,CUST1144,Bookshelf,Furniture,Central,Consumer,Distributor,Debit Card,6,6486.01,0,38916.06,25387.75,13528.31
+ORD0052,05-05-2025,CUST1238,Printer,Office Supplies,East,Consumer,Distributor,UPI,6,8920.09,12,47098.08,28848.96,18249.12
+ORD0116,08-05-2025,CUST1200,Keyboard,Accessories,East,Consumer,Distributor,Cash,7,1403.97,15,8353.62,4934.28,3419.34
+ORD0359,08-05-2025,CUST1016,Notebook Pack,Office Supplies,South,Corporate,Online,Credit Card,4,482.3,8,1774.86,1009.87,764.99
+ORD0491,09-05-2025,CUST1248,Backpack,Accessories,South,Corporate,Online,Credit Card,8,1868.5,0,14948,8779.91,6168.09
+ORD0002,11-05-2025,CUST1161,Bookshelf,Furniture,North,Consumer,Online,UPI,8,7361.49,12,51824.89,34921.86,16903.03
+ORD0008,12-05-2025,CUST1143,Pen Set,Office Supplies,West,Corporate,Retail Store,Debit Card,4,235.59,8,866.97,471.83,395.14
+ORD0431,13-05-2025,CUST1033,Pen Set,Office Supplies,Central,Consumer,Retail Store,Cash,3,247.57,8,683.29,371.71,311.58
+ORD0150,16-05-2025,CUST1209,Tablet,Electronics,South,Small Business,Retail Store,Debit Card,1,17067.91,10,15361.12,10924.62,4436.5
+ORD0179,17-05-2025,CUST1127,Backpack,Accessories,Central,Corporate,Distributor,UPI,5,1685.12,5,8004.32,5209.59,2794.73
+ORD0302,19-05-2025,CUST1115,Office Chair,Furniture,North,Consumer,Retail Store,Debit Card,8,7946.19,12,55941.18,38417.42,17523.76
+ORD0148,24-05-2025,CUST1098,Smartphone,Electronics,Central,Consumer,Retail Store,Cash,1,23755.11,0,23755.11,16262.43,7492.68
+ORD0394,24-05-2025,CUST1037,Laptop,Electronics,Central,Small Business,Online,UPI,7,58637.75,2,402254.97,290452.07,111802.9
+ORD0233,25-05-2025,CUST1233,Tablet,Electronics,West,Consumer,Distributor,Credit Card,4,18390.41,10,66205.48,49528.86,16676.62
+ORD0354,25-05-2025,CUST1204,Laptop,Electronics,West,Small Business,Distributor,UPI,4,57152.3,2,224037.02,160090.28,63946.74
+ORD0239,26-05-2025,CUST1189,Backpack,Accessories,West,Corporate,Distributor,Credit Card,8,1876.33,0,15010.64,9020.2,5990.44
+ORD0154,28-05-2025,CUST1025,Tablet,Electronics,East,Small Business,Online,Debit Card,8,17002.15,15,115614.62,83693.23,31921.39
+ORD0434,28-05-2025,CUST1068,Printer,Office Supplies,Central,Consumer,Distributor,Debit Card,5,9483.24,5,45045.39,24192.19,20853.2
+ORD0480,02-06-2025,CUST1221,Desk,Furniture,North,Consumer,Distributor,Debit Card,7,12866.46,12,79257.39,53363.11,25894.28
+ORD0145,05-06-2025,CUST1059,Tablet,Electronics,East,Small Business,Distributor,Net Banking,8,18705.58,15,127197.94,95460.74,31737.2
+ORD0012,11-06-2025,CUST1116,Headphones,Electronics,North,Consumer,Online,Cash,6,2364.51,10,12768.35,9194.75,3573.6
+ORD0096,11-06-2025,CUST1026,Notebook Pack,Office Supplies,Central,Small Business,Online,UPI,5,461.01,5,2189.8,1362.62,827.18
+ORD0570,12-06-2025,CUST1202,Bookshelf,Furniture,West,Small Business,Distributor,Debit Card,4,7405.98,0,29623.92,19214.74,10409.18
+ORD0455,13-06-2025,CUST1136,Pen Set,Office Supplies,East,Consumer,Retail Store,Debit Card,6,256.35,0,1538.1,839.85,698.25
+ORD0358,15-06-2025,CUST1039,Notebook Pack,Office Supplies,West,Consumer,Distributor,Debit Card,7,455.95,2,3127.82,1751.82,1376
+ORD0083,19-06-2025,CUST1219,Notebook Pack,Office Supplies,Central,Consumer,Online,Cash,3,469.97,0,1409.91,816.4,593.51
+ORD0156,21-06-2025,CUST1135,Office Chair,Furniture,North,Consumer,Distributor,Credit Card,7,8934.11,8,57535.67,36574.96,20960.71
+ORD0312,25-06-2025,CUST1093,Headphones,Electronics,North,Consumer,Retail Store,Credit Card,7,2527.1,12,15566.94,10435.53,5131.41
+ORD0592,30-06-2025,CUST1060,Smartphone,Electronics,South,Corporate,Retail Store,Net Banking,7,21283.28,5,141533.81,98672.52,42861.29
+ORD0314,04-07-2025,CUST1059,Laptop,Electronics,North,Consumer,Online,Debit Card,7,55424.81,12,341416.83,242919.21,98497.62
+ORD0383,04-07-2025,CUST1005,Smartphone,Electronics,Central,Corporate,Distributor,Debit Card,2,22427.53,0,44855.06,32077.25,12777.81
+ORD0368,06-07-2025,CUST1175,Smartphone,Electronics,North,Small Business,Retail Store,Net Banking,7,22613.02,8,145627.85,105273.02,40354.83
+ORD0292,07-07-2025,CUST1147,Smartphone,Electronics,North,Corporate,Online,Credit Card,7,21167.34,5,140762.81,108315.55,32447.26
+ORD0327,07-07-2025,CUST1048,Bookshelf,Furniture,North,Consumer,Retail Store,UPI,7,7176.21,10,45210.12,31826.09,13384.03
+ORD0439,07-07-2025,CUST1183,Printer,Office Supplies,North,Consumer,Online,Cash,2,9276.17,8,17068.15,10248.72,6819.43
+ORD0076,13-07-2025,CUST1015,Backpack,Accessories,West,Corporate,Retail Store,Cash,7,1761.58,10,11097.95,6924.25,4173.7
+ORD0025,15-07-2025,CUST1222,Backpack,Accessories,South,Corporate,Online,Net Banking,1,1846.56,12,1624.97,987.12,637.85
+ORD0335,15-07-2025,CUST1219,Laptop,Electronics,East,Small Business,Retail Store,Net Banking,7,54670.88,10,344426.54,244803.56,99622.98
+ORD0222,16-07-2025,CUST1196,Printer,Office Supplies,South,Consumer,Online,Cash,6,9060.62,8,50014.62,30945.76,19068.86
+ORD0058,19-07-2025,CUST1175,Tablet,Electronics,North,Small Business,Distributor,UPI,7,18973.38,12,116876.02,77959.28,38916.74
+ORD0361,22-07-2025,CUST1078,Notebook Pack,Office Supplies,West,Consumer,Distributor,Debit Card,5,447.73,10,2014.79,1241.96,772.83
+ORD0390,25-07-2025,CUST1041,Backpack,Accessories,North,Corporate,Distributor,Debit Card,1,1850.15,15,1572.63,906.39,666.24
+ORD0011,26-07-2025,CUST1105,Headphones,Electronics,Central,Corporate,Retail Store,Credit Card,5,2565.73,12,11289.21,8006.49,3282.72
+ORD0500,27-07-2025,CUST1220,Pen Set,Office Supplies,East,Consumer,Retail Store,Credit Card,3,242.38,15,618.07,341.29,276.78
+ORD0501,29-07-2025,CUST1071,Smartphone,Electronics,West,Consumer,Retail Store,Debit Card,6,21450.23,8,118405.27,82000.7,36404.57
+ORD0556,31-07-2025,CUST1102,Headphones,Electronics,South,Corporate,Online,Cash,1,2514.59,15,2137.4,1528.97,608.43
+ORD0350,01-08-2025,CUST1058,Bookshelf,Furniture,Central,Small Business,Distributor,Net Banking,8,7483.64,5,56875.66,39116.12,17759.54
+ORD0449,02-08-2025,CUST1083,Headphones,Electronics,North,Corporate,Retail Store,Credit Card,2,2432.13,5,4621.05,3430.45,1190.6
+ORD0100,03-08-2025,CUST1108,Smartphone,Electronics,North,Corporate,Online,UPI,3,22987.65,5,65514.8,49745.82,15768.98
+ORD0426,05-08-2025,CUST1139,Smartphone,Electronics,North,Consumer,Online,Cash,1,22703.73,2,22249.66,16398.79,5850.87
+ORD0550,06-08-2025,CUST1222,Keyboard,Accessories,South,Consumer,Distributor,Debit Card,7,1472.46,10,9276.5,6208.33,3068.17
+ORD0566,09-08-2025,CUST1120,Desk,Furniture,East,Corporate,Retail Store,Net Banking,7,12016.88,0,84118.16,59195.55,24922.61
+ORD0257,12-08-2025,CUST1121,Desk,Furniture,East,Consumer,Online,Credit Card,6,11128.25,2,65434.11,43443.06,21991.05
+ORD0296,14-08-2025,CUST1233,Headphones,Electronics,East,Small Business,Online,Net Banking,1,2679,10,2411.1,1684.53,726.57
+ORD0160,17-08-2025,CUST1165,Keyboard,Accessories,Central,Small Business,Online,Cash,2,1449.38,8,2666.86,1715.55,951.31
+ORD0360,17-08-2025,CUST1009,Tablet,Electronics,Central,Small Business,Online,Net Banking,7,17692.71,8,113941.05,86903.81,27037.24
+ORD0403,18-08-2025,CUST1149,Notebook Pack,Office Supplies,West,Consumer,Online,Net Banking,4,442.31,2,1733.86,1044.63,689.23
+ORD0571,19-08-2025,CUST1033,Laptop,Electronics,East,Small Business,Online,Debit Card,5,50664.66,10,227990.97,160354.71,67636.26
+ORD0053,20-08-2025,CUST1108,Printer,Office Supplies,North,Corporate,Retail Store,UPI,5,9430.56,0,47152.8,28772.5,18380.3
+ORD0458,20-08-2025,CUST1247,Notebook Pack,Office Supplies,Central,Small Business,Retail Store,UPI,5,431.85,15,1835.36,992.28,843.08
+ORD0081,21-08-2025,CUST1019,Desk,Furniture,Central,Small Business,Retail Store,Cash,3,12541.45,15,31980.7,23023.16,8957.54
+ORD0453,21-08-2025,CUST1183,Smartphone,Electronics,South,Small Business,Online,Cash,2,23502.79,12,41364.91,27756.47,13608.44
+ORD0077,23-08-2025,CUST1077,Office Chair,Furniture,Central,Consumer,Retail Store,Net Banking,6,8506.52,12,44914.43,32543.17,12371.26
+ORD0181,23-08-2025,CUST1127,Pen Set,Office Supplies,South,Consumer,Online,Net Banking,6,230.96,15,1177.9,685.42,492.48
+ORD0522,23-08-2025,CUST1217,Bookshelf,Furniture,East,Small Business,Retail Store,UPI,4,6872.74,12,24192.04,16176.62,8015.42
+ORD0533,23-08-2025,CUST1212,Keyboard,Accessories,East,Consumer,Online,Debit Card,1,1383.39,2,1355.72,786.11,569.61
+ORD0204,25-08-2025,CUST1120,Notebook Pack,Office Supplies,West,Corporate,Online,Cash,3,424.61,12,1120.97,626.59,494.38
+ORD0446,25-08-2025,CUST1040,Pen Set,Office Supplies,South,Corporate,Online,Cash,7,234.14,5,1557.03,903.51,653.52
+ORD0557,27-08-2025,CUST1140,Keyboard,Accessories,South,Small Business,Online,Cash,6,1513.33,12,7990.38,5042.62,2947.76
+ORD0352,30-08-2025,CUST1053,Bookshelf,Furniture,West,Corporate,Online,Credit Card,4,7361.69,10,26502.08,17151.72,9350.36
+ORD0108,02-09-2025,CUST1044,Smartphone,Electronics,East,Consumer,Online,Cash,6,22025.67,0,132154.02,102637.74,29516.28
+ORD0164,07-09-2025,CUST1120,Pen Set,Office Supplies,West,Consumer,Distributor,UPI,4,267.42,12,941.32,507.48,433.84
+ORD0537,07-09-2025,CUST1175,Tablet,Electronics,Central,Consumer,Distributor,UPI,6,19287.05,12,101835.62,75104.39,26731.23
+ORD0099,10-09-2025,CUST1104,Notebook Pack,Office Supplies,East,Consumer,Online,Credit Card,2,414.12,5,786.83,428.04,358.79
+ORD0365,12-09-2025,CUST1015,Laptop,Electronics,West,Corporate,Online,Credit Card,5,54648.33,2,267776.82,182974.97,84801.85
+ORD0479,12-09-2025,CUST1058,Pen Set,Office Supplies,Central,Consumer,Retail Store,Credit Card,4,262.16,5,996.21,561.91,434.3
+ORD0333,14-09-2025,CUST1161,Keyboard,Accessories,North,Consumer,Distributor,Debit Card,8,1505.31,15,10236.11,6399.45,3836.66
+ORD0462,15-09-2025,CUST1002,Laptop,Electronics,North,Small Business,Online,Debit Card,7,53136.15,5,353355.4,264646.41,88708.99
+ORD0338,16-09-2025,CUST1173,Keyboard,Accessories,Central,Corporate,Retail Store,Cash,6,1383.96,8,7639.46,5083.62,2555.84
+ORD0256,17-09-2025,CUST1182,Office Chair,Furniture,East,Consumer,Online,Net Banking,6,8635.22,0,51811.32,37786.13,14025.19
+ORD0273,17-09-2025,CUST1240,Headphones,Electronics,West,Corporate,Distributor,Cash,8,2316.94,15,15755.19,11243.8,4511.39
+ORD0476,18-09-2025,CUST1121,Backpack,Accessories,North,Small Business,Distributor,Cash,7,1897.11,0,13279.77,7978.91,5300.86
+ORD0339,23-09-2025,CUST1130,Printer,Office Supplies,North,Consumer,Online,Cash,7,9510.93,8,61250.39,35167.07,26083.32
+ORD0355,25-09-2025,CUST1229,Keyboard,Accessories,South,Corporate,Online,Credit Card,7,1581.77,2,10850.94,6616.23,4234.71
+ORD0141,27-09-2025,CUST1186,Notebook Pack,Office Supplies,North,Consumer,Online,UPI,3,462.58,2,1359.99,840.58,519.41
+ORD0131,30-09-2025,CUST1205,Printer,Office Supplies,North,Consumer,Retail Store,Debit Card,6,10242.68,2,60226.96,36710.68,23516.28
+ORD0428,01-10-2025,CUST1016,Notebook Pack,Office Supplies,West,Small Business,Online,UPI,1,421.88,2,413.44,224.27,189.17
+ORD0073,05-10-2025,CUST1083,Keyboard,Accessories,Central,Small Business,Distributor,Debit Card,6,1487.58,0,8925.48,5438.68,3486.8
+ORD0068,06-10-2025,CUST1210,Backpack,Accessories,East,Corporate,Retail Store,Credit Card,3,1798.31,8,4963.34,2888.13,2075.21
+ORD0452,07-10-2025,CUST1237,Printer,Office Supplies,East,Consumer,Retail Store,Net Banking,5,9407.69,15,39982.68,22331.05,17651.63
+ORD0005,08-10-2025,CUST1172,Notebook Pack,Office Supplies,South,Consumer,Online,Net Banking,1,427.64,8,393.43,214.68,178.75
+ORD0040,10-10-2025,CUST1201,Notebook Pack,Office Supplies,North,Small Business,Distributor,Credit Card,8,470.12,5,3572.91,2119.53,1453.38
+ORD0029,13-10-2025,CUST1109,Notebook Pack,Office Supplies,West,Consumer,Distributor,Debit Card,1,467.21,12,411.14,224.38,186.76
+ORD0102,16-10-2025,CUST1012,Desk,Furniture,North,Consumer,Retail Store,UPI,2,11305.35,10,20349.63,14765.04,5584.59
+ORD0536,16-10-2025,CUST1114,Bookshelf,Furniture,North,Corporate,Retail Store,Cash,3,6538.27,12,17261.03,12153.05,5107.98
+ORD0187,23-10-2025,CUST1044,Smartphone,Electronics,West,Small Business,Retail Store,Debit Card,6,21806.46,5,124296.82,83237.99,41058.83
+ORD0509,23-10-2025,CUST1020,Bookshelf,Furniture,Central,Corporate,Online,UPI,6,6877.09,8,37961.54,25515.7,12445.84
+ORD0020,24-10-2025,CUST1131,Smartphone,Electronics,East,Consumer,Online,Net Banking,3,21784.97,8,60126.52,39977.5,20149.02
+ORD0013,25-10-2025,CUST1240,Smartphone,Electronics,East,Consumer,Online,Cash,2,22458.59,5,42671.32,30044.06,12627.26
+ORD0437,25-10-2025,CUST1105,Keyboard,Accessories,South,Corporate,Retail Store,Debit Card,5,1576.75,10,7095.38,4387.5,2707.88
+ORD0293,27-10-2025,CUST1128,Smartphone,Electronics,South,Corporate,Online,Debit Card,3,23111.97,10,62402.32,41820.73,20581.59
+ORD0386,28-10-2025,CUST1155,Office Chair,Furniture,North,Consumer,Online,Net Banking,8,8649.99,8,63663.93,46662.65,17001.28
+ORD0113,30-10-2025,CUST1041,Laptop,Electronics,North,Corporate,Online,Cash,8,58428.98,0,467431.84,330897.26,136534.58
+ORD0528,01-11-2025,CUST1237,Pen Set,Office Supplies,West,Consumer,Retail Store,Credit Card,8,234.24,0,1873.92,1068.78,805.14
+ORD0149,02-11-2025,CUST1148,Smartphone,Electronics,North,Corporate,Distributor,Debit Card,3,20485.14,15,52237.11,35432.29,16804.82
+ORD0265,03-11-2025,CUST1024,Backpack,Accessories,West,Small Business,Online,Credit Card,5,1922.88,10,8652.96,5157.02,3495.94
+ORD0039,05-11-2025,CUST1102,Office Chair,Furniture,South,Consumer,Retail Store,UPI,8,8953.5,0,71628,45215.42,26412.58
+ORD0268,10-11-2025,CUST1036,Headphones,Electronics,West,Consumer,Distributor,Cash,4,2361.08,2,9255.43,6863.86,2391.57
+ORD0518,10-11-2025,CUST1179,Smartphone,Electronics,North,Consumer,Retail Store,Debit Card,8,21871.96,8,160977.63,124702.24,36275.39
+ORD0542,10-11-2025,CUST1041,Smartphone,Electronics,South,Small Business,Distributor,Cash,6,22303.2,12,117760.9,79616.16,38144.74
+ORD0585,16-11-2025,CUST1129,Bookshelf,Furniture,West,Consumer,Online,Credit Card,1,7465.11,12,6569.3,4326.5,2242.8
+ORD0031,18-11-2025,CUST1002,Keyboard,Accessories,East,Corporate,Retail Store,UPI,7,1413.68,0,9895.76,6055.97,3839.79
+ORD0215,18-11-2025,CUST1153,Headphones,Electronics,South,Consumer,Online,Net Banking,8,2401.21,8,17672.91,13285.98,4386.93
+ORD0051,19-11-2025,CUST1091,Smartphone,Electronics,North,Consumer,Online,Net Banking,2,22186.54,12,39048.31,30076.7,8971.61
+ORD0183,19-11-2025,CUST1050,Bookshelf,Furniture,Central,Consumer,Online,Credit Card,4,6548.43,5,24884.03,18132.21,6751.82
+ORD0363,19-11-2025,CUST1063,Tablet,Electronics,South,Small Business,Online,Debit Card,4,18035.39,8,66370.24,50137.27,16232.97
+ORD0032,24-11-2025,CUST1197,Smartphone,Electronics,East,Small Business,Distributor,Debit Card,4,20302.79,10,73090.04,49333.83,23756.21
+ORD0188,27-11-2025,CUST1024,Headphones,Electronics,South,Consumer,Online,UPI,8,2646.92,2,20751.85,15438.21,5313.64
+ORD0559,28-11-2025,CUST1249,Pen Set,Office Supplies,West,Consumer,Online,UPI,8,233.23,8,1716.57,1031.24,685.33
+ORD0004,29-11-2025,CUST1011,Desk,Furniture,Central,Small Business,Online,Credit Card,4,11336.24,8,41717.36,29198.64,12518.72
+ORD0175,29-11-2025,CUST1231,Keyboard,Accessories,North,Corporate,Online,Debit Card,6,1474.2,15,7518.42,4977.58,2540.84
+ORD0235,30-11-2025,CUST1073,Bookshelf,Furniture,North,Small Business,Distributor,UPI,6,6812.02,15,34741.3,22373.46,12367.84
+ORD0329,06-12-2025,CUST1095,Backpack,Accessories,East,Consumer,Retail Store,Cash,2,1867.4,2,3660.1,2388.15,1271.95
+ORD0170,08-12-2025,CUST1100,Headphones,Electronics,East,Consumer,Distributor,Net Banking,4,2533.9,12,8919.33,6039.74,2879.59
+ORD0093,10-12-2025,CUST1054,Headphones,Electronics,South,Consumer,Online,Net Banking,8,2511.82,15,17080.38,12774.67,4305.71
+ORD0225,15-12-2025,CUST1169,Notebook Pack,Office Supplies,North,Corporate,Online,Net Banking,4,431.16,0,1724.64,1000.75,723.89
+ORD0084,16-12-2025,CUST1022,Backpack,Accessories,East,Small Business,Online,UPI,7,1815.97,10,11440.61,7435.99,4004.62
+ORD0558,16-12-2025,CUST1175,Keyboard,Accessories,West,Small Business,Retail Store,Cash,2,1496.24,15,2543.61,1682.71,860.9
+ORD0471,22-12-2025,CUST1007,Desk,Furniture,West,Consumer,Distributor,UPI,8,11133.55,8,81942.93,51410.52,30532.41
+ORD0496,23-12-2025,CUST1201,Bookshelf,Furniture,West,Small Business,Distributor,Credit Card,6,7486.85,5,42675.05,28903.92,13771.13
+ORD0282,24-12-2025,CUST1045,Desk,Furniture,South,Consumer,Retail Store,Net Banking,5,12217.17,12,53755.55,33712.08,20043.47
+ORD0035,26-12-2025,CUST1080,Notebook Pack,Office Supplies,Central,Consumer,Online,Net Banking,4,424.52,10,1528.27,932.44,595.83
+ORD0198,26-12-2025,CUST1149,Smartphone,Electronics,East,Consumer,Online,Net Banking,1,21042.45,12,18517.36,13626.05,4891.31
+ORD0420,27-12-2025,CUST1178,Laptop,Electronics,North,Small Business,Retail Store,UPI,6,58154.22,0,348925.32,238515.87,110409.45
+ORD0600,27-12-2025,CUST1124,Notebook Pack,Office Supplies,North,Consumer,Online,Net Banking,4,475.65,0,1902.6,1151.28,751.32
+ORD0047,28-12-2025,CUST1033,Pen Set,Office Supplies,Central,Consumer,Retail Store,Net Banking,1,254.65,0,254.65,139.93,114.72
+ORD0474,29-12-2025,CUST1087,Smartphone,Electronics,North,Small Business,Distributor,Cash,5,22067.68,2,108131.63,75269.59,32862.04
+ORD0090,30-12-2025,CUST1250,Printer,Office Supplies,South,Consumer,Online,UPI,5,9805.34,2,48046.17,28291.3,19754.87
